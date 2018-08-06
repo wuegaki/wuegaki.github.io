@@ -14,7 +14,7 @@ permalink: /output
 
 ### Manuscripts in review cycles
 
-- **Uegaki, Wataru** and Yasutada Sudo. under review. The *hope-wh puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
+- **Uegaki, Wataru** and Yasutada Sudo. under review. The *_hope-wh_ puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
 - **Uegaki, Wataru**. under review. The semantics of question-embedding predicates. [[PDF](http://semanticsarchive.net/Archive/DQ3MDgwN/paper.pdf)] (survey article; current decision: minor revision)
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. under review (2nd round). Distributive ignorance inferences. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)] (current revision: revise and resubmit)
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
@@ -25,8 +25,8 @@ permalink: /output
 
 ### Papers in conference proceedings
 
-- **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[pdf](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
-- **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[pdf](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
+- **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[PDF](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
+- **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[PDF](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
 - Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[PDF](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
 - **Uegaki, Wataru**. 2014. Predicting the distribution of exhaustive inference in a QUD model. *Proceedings of NELS 44*. [[PDF](https://wataruu.files.wordpress.com/2015/07/uegaki-nels44.pdf)]
 - **Uegaki, Wataru**. 2014. Japanese alternative questions are disjunctions of polar questions. *Proceedings of SALT 24*. [[DOI](http://dx.doi.org/10.3765/salt.v24i0.2423)]
