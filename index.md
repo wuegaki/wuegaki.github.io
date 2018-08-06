@@ -25,7 +25,7 @@ I am a researcher of **formal semantics and pragmatics**. This means that I stud
 
 I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world.
 
-**Teaching** is an essential part of my academic life. See the [Teaching page](teaching) for my teaching philosophy and information on classes I have taught.
+**Teaching** is an essential part of my academic life. See the [Teaching page](wuegaki.github.io/teaching) for my teaching philosophy and information on classes I have taught.
 
 ### Specific research interests
 
