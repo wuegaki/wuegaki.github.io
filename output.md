@@ -10,7 +10,7 @@ permalink: /output
 - Elliot, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. ***Journal of Semantics*** 34(3): 547–554. [http://doi.org/10.1093/jos/ffx008](http://doi.org/10.1093/jos/ffx008)
 - **Uegaki, Wataru**. 2016. Content nouns and the semantics of question-embedding. Journal of Semantics 33(4): 623-660. [http://doi.org/10.1093/jos/ffv009](http://doi.org/10.1093/jos/ffv009)
 - **Uegaki, Wataru**. 2012. Inquisitive knowledge attribution and the Gettier problem. In Maria Aloni, Floris Roelofsen, Katrin Schulz, Galit Weidmann-Sassoon & Matthijs Westera (eds.), ***Logic, Language and Meaning: Selected Revised Papers from the 18th Amsterdam Colloquium***. LNAI, LNCS, Springer. [https://doi.org/10.1007/978-3-642-31482-7_6](https://doi.org/10.1007/978-3-642-31482-7_6)
-- Uegaki, Wataru. 2011. 'Nearly free' control as an underspecified de se report. ***[Empirical Issues in Syntax and Semantics 8](http://www.cssp.cnrs.fr/eiss8/index.html)***. 511-536.
+- Uegaki, Wataru. 2011. 'Nearly free' control as an underspecified de se report. ***Empirical Issues in Syntax and Semantics 8***. 511-536. [pdf](http://www.cssp.cnrs.fr/eiss8/uegaki-eiss8.pdf)
 
 ### Manuscripts in review cycles
 
