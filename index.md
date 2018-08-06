@@ -8,7 +8,7 @@ I am an Assistant Professor (Universitair Docent) at **Leiden University** in th
 
 Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **Institute of Cultural and Linguistic Studies at [Keio University](http://www.keio.ac.jp/)**, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris.
 
-In 2015, I completed my PhD study at [MIT Linguistics](http://web.mit.edu/linguistics/), with the PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)*. The dissertation addresses a family of puzzles for the compositional semantics of the question-embedding phenomena, posed by variability in forms and interpretations of clauses embedded under attitude predicates, such as *know*, *predict*, *surprise* and *wonder*.
+In 2015, I completed my PhD study at **[MIT Linguistics](http://web.mit.edu/linguistics/)**, with the PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)*. The dissertation addresses a family of puzzles for the compositional semantics of the question-embedding phenomena, posed by variability in forms and interpretations of clauses embedded under attitude predicates, such as *know*, *predict*, *surprise* and *wonder*.
 
 I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](semprag.org/)*
