@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am an Assistant Professor (Universitair Docent) at **Leiden University** in **[Leiden University Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)**.
+I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**.
 
 Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **Institute of Cultural and Linguistic Studies at [Keio University](http://www.keio.ac.jp/)**, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris.
 
