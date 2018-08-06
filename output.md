@@ -6,7 +6,7 @@ permalink: /output
 
 ### Refereed articles in journals and book series
 
-- **Uegaki, Wataru**. 2018. A unified semantics for the Japanese Q-particle ka in indefinites, questions and disjunctions. **_Glossa: a journal of general linguistics_**. 3(1), 14 [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
+- __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle ka in indefinites, questions and disjunctions. **_Glossa: a journal of general linguistics_**. 3(1), 14 [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
 - Elliot, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. ***Journal of Semantics*** 34(3): 547–554. [[DOI](http://doi.org/10.1093/jos/ffx008)]
 - **Uegaki, Wataru**. 2016. Content nouns and the semantics of question-embedding. ***Journal of Semantics*** 33(4): 623-660. [[DOI](http://doi.org/10.1093/jos/ffv009)]
 - **Uegaki, Wataru**. 2012. Inquisitive knowledge attribution and the Gettier problem. In Maria Aloni, Floris Roelofsen, Katrin Schulz, Galit Weidmann-Sassoon & Matthijs Westera (eds.), ***Logic, Language and Meaning: Selected Revised Papers from the 18th Amsterdam Colloquium***. LNAI, LNCS, Springer. [[DOI](https://doi.org/10.1007/978-3-642-31482-7_6)]
