@@ -10,13 +10,13 @@ permalink: /output
 - Elliot, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34(3): 547–554. [[DOI](http://doi.org/10.1093/jos/ffx008)]
 - **Uegaki, Wataru**. 2016. Content nouns and the semantics of question-embedding. *Journal of Semantics* 33(4): 623-660. [[DOI](http://doi.org/10.1093/jos/ffv009)]
 - **Uegaki, Wataru**. 2012. Inquisitive knowledge attribution and the Gettier problem. In Maria Aloni, Floris Roelofsen, Katrin Schulz, Galit Weidmann-Sassoon & Matthijs Westera (eds.), *Logic, Language and Meaning: Selected Revised Papers from the 18th Amsterdam Colloquium*. LNAI, LNCS, Springer. [[DOI](https://doi.org/10.1007/978-3-642-31482-7_6)]
-- **Uegaki, Wataru**. 2011. 'Nearly free' control as an underspecified de se report. *Empirical Issues in Syntax and Semantics 8*. 511-536. [[pdf](http://www.cssp.cnrs.fr/eiss8/uegaki-eiss8.pdf)]
+- **Uegaki, Wataru**. 2011. 'Nearly free' control as an underspecified de se report. *Empirical Issues in Syntax and Semantics 8*. 511-536. [[PDF](http://www.cssp.cnrs.fr/eiss8/uegaki-eiss8.pdf)]
 
 ### Manuscripts in review cycles
 
-- **Uegaki, Wataru** and Yasutada Sudo. under review. The *hope-wh puzzle. [[pdf](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
-- **Uegaki, Wataru**. under review. The semantics of question-embedding predicates. [[pdf](http://semanticsarchive.net/Archive/DQ3MDgwN/paper.pdf)] (survey article; current decision: minor revision)
-- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. under review (2nd round). Distributive ignorance inferences. [[pdf](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)] (current revision: revise and resubmit)
+- **Uegaki, Wataru** and Yasutada Sudo. under review. The *hope-wh puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
+- **Uegaki, Wataru**. under review. The semantics of question-embedding predicates. [[PDF](http://semanticsarchive.net/Archive/DQ3MDgwN/paper.pdf)] (survey article; current decision: minor revision)
+- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. under review (2nd round). Distributive ignorance inferences. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)] (current revision: revise and resubmit)
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
 
 ### Monographs
@@ -27,8 +27,8 @@ permalink: /output
 
 - **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[pdf](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
 - **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[pdf](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
-- Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[pdf](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
-- **Uegaki, Wataru**. 2014. Predicting the distribution of exhaustive inference in a QUD model. *Proceedings of NELS 44*. [[pdf](https://wataruu.files.wordpress.com/2015/07/uegaki-nels44.pdf)]
+- Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[PDF](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
+- **Uegaki, Wataru**. 2014. Predicting the distribution of exhaustive inference in a QUD model. *Proceedings of NELS 44*. [[PDF](https://wataruu.files.wordpress.com/2015/07/uegaki-nels44.pdf)]
 - **Uegaki, Wataru**. 2014. Japanese alternative questions are disjunctions of polar questions. *Proceedings of SALT 24*. [[DOI](http://dx.doi.org/10.3765/salt.v24i0.2423)]
 - **Uegaki, Wataru** and Paul Marty. 2013. Investigating the alternative-sensitivity of "know". *Proceedings of SALT 23*. [[DOI](http://dx.doi.org/10.3765/salt.v23i0.2668)]
 - Kubota, Yusuke and **Wataru Uegaki**. 2009. Nothing else for something else: a variable-free account. *Proceedings of SALT 19*. [[DOI](http://dx.doi.org/10.3765/salt.v19i0.2527)]
@@ -36,7 +36,7 @@ permalink: /output
 
 ### Papers in edited volumes
 
-- **Uegaki, Wataru**. 2014. Cross-linguistic variation in the derivation of alternative questions: Japanese and beyond. In Uli Sauerland and Luka Crnič (eds.), *The Art and Craft of Semantics: A Festschrift for Irene Heim*, 251-274. Cambridge, MA: MIT Working Papers in Linguistics. [[pdf](http://semanticsarchive.net/Archive/jZiNmM4N/Uegaki.pdf)]
+- **Uegaki, Wataru**. 2014. Cross-linguistic variation in the derivation of alternative questions: Japanese and beyond. In Uli Sauerland and Luka Crnič (eds.), *The Art and Craft of Semantics: A Festschrift for Irene Heim*, 251-274. Cambridge, MA: MIT Working Papers in Linguistics. [[PDF](http://semanticsarchive.net/Archive/jZiNmM4N/Uegaki.pdf)]
 
 ### PhD dissertation
 
