@@ -36,7 +36,7 @@ permalink: /output
 
 ### Papers in edited volumes
 
-- **Uegaki, Wataru**. 2014. Cross-linguistic variation in the derivation of alternative questions: Japanese and beyond. In Uli Sauerland and Luka Crnič (eds.), ***[The Art and Craft of Semantics: A Festschrift for Irene Heim](http://semanticsarchive.net/Archive/jZiNmM4N/)***, 251-274. Cambridge, MA: MIT Working Papers in Linguistics. [pdf](http://semanticsarchive.net/Archive/jZiNmM4N/Uegaki.pdf)
+- **Uegaki, Wataru**. 2014. Cross-linguistic variation in the derivation of alternative questions: Japanese and beyond. In Uli Sauerland and Luka Crnič (eds.), ***The Art and Craft of Semantics: A Festschrift for Irene Heim***, 251-274. Cambridge, MA: MIT Working Papers in Linguistics. [pdf](http://semanticsarchive.net/Archive/jZiNmM4N/Uegaki.pdf)
 
 ### PhD dissertation
 
