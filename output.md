@@ -25,6 +25,8 @@ permalink: /output
 
 ### Papers in conference proceedings
 
+- **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. 
+- Roelofsen, Floris and **Wataru Uegaki**. 2018. Do modals take propositions or questions? Evidence from Japanese. *Proceedings of SALT 28*.
 - **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[PDF](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
 - **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[PDF](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
 - Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[PDF](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
