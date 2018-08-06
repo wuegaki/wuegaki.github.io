@@ -19,6 +19,8 @@ My profiles can also be found on the following sites:
 - [Profile in the Leiden University website](https://www.universiteitleiden.nl/en/staffmembers/wataru-uegaki)
 - [Google scholar profile](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ)
 
+---
+
 ## What I do.
 
 I am a researcher of **formal semantics and pragmatics**. This means that I study the systematic patterns in which people draw various kinds of inferences from conversations in natural language, and try to understand systems governing such patterns by formalizing them using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
@@ -26,6 +28,8 @@ I am a researcher of **formal semantics and pragmatics**. This means that I stud
 I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world.
 
 **Teaching** is an essential part of my academic life. See the [Teaching page](wuegaki.github.io/teaching) for my teaching philosophy and information on classes I have taught.
+
+---
 
 ## Specific research interests
 
