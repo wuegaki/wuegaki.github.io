@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Who I am.
 permalink: /
 ---
 
@@ -21,7 +21,7 @@ My profiles can also be found on the following sites:
 
 ---
 
-## What I do.
+# What I do.
 
 I am a researcher of **formal semantics and pragmatics**. This means that I study the systematic patterns in which people draw various kinds of inferences from conversations in natural language, and try to understand systems governing such patterns by formalizing them using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
 
