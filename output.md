@@ -6,7 +6,8 @@ permalink: /output
 
 ### Refereed articles in journals and book series
 
-- __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle _ka_ in indefinites, questions and disjunctions. _Glossa: a journal of general linguistics_. 3(1), 14 [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
+- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. accepted with minor revisions. Distributive ignorance inferences. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)].
+- __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle _ka_ in indefinites, questions and disjunctions. _Glossa: a journal of general linguistics_. 3(1), 14. [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
 - Elliott, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34(3): 547–554. [[DOI](http://doi.org/10.1093/jos/ffx008)]
 - **Uegaki, Wataru**. 2016. Content nouns and the semantics of question-embedding. *Journal of Semantics* 33(4): 623-660. [[DOI](http://doi.org/10.1093/jos/ffv009)]
 - **Uegaki, Wataru**. 2012. Inquisitive knowledge attribution and the Gettier problem. In Maria Aloni, Floris Roelofsen, Katrin Schulz, Galit Weidmann-Sassoon & Matthijs Westera (eds.), *Logic, Language and Meaning: Selected Revised Papers from the 18th Amsterdam Colloquium*. LNAI, LNCS, Springer. [[DOI](https://doi.org/10.1007/978-3-642-31482-7_6)]
@@ -16,7 +17,6 @@ permalink: /output
 
 - **Uegaki, Wataru** and Yasutada Sudo. under review. The *_hope-wh_ puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
 - **Uegaki, Wataru**. under review. The semantics of question-embedding predicates. [[PDF](http://semanticsarchive.net/Archive/DQ3MDgwN/paper.pdf)] (survey article; current decision: minor revision)
-- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. under review (2nd round). Distributive ignorance inferences. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)] (current revision: revise and resubmit)
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
 
 ### Monographs
