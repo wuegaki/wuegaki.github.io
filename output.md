@@ -6,7 +6,7 @@ permalink: /output
 
 ### Refereed articles in journals and book series
 
-- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. accepted with minor revisions. Distributive ignorance inferences. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)].
+- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. accepted with minor revisions. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)].
 - __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle _ka_ in indefinites, questions and disjunctions. _Glossa: a journal of general linguistics_. 3(1), 14. [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
 - Elliott, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34(3): 547–554. [[DOI](http://doi.org/10.1093/jos/ffx008)]
 - **Uegaki, Wataru**. 2016. Content nouns and the semantics of question-embedding. *Journal of Semantics* 33(4): 623-660. [[DOI](http://doi.org/10.1093/jos/ffv009)]
@@ -26,7 +26,7 @@ permalink: /output
 ### Papers in conference proceedings
 
 - **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[current draft PDF](https://semanticsarchive.net/Archive/DU1ZGM1Y/paper.pdf)]
-- Roelofsen, Floris and **Wataru Uegaki**. 2018. Do modals take propositions or questions? Evidence from Japanese. *Proceedings of SALT 28*.
+- **Uegaki, Wataru** and Floris Roelofsen. 2018. Do modals take propositions or questions? Evidence from Japanese. *Proceedings of SALT 28*.
 - **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[PDF](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
 - **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[PDF](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
 - Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[PDF](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
