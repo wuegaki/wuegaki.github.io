@@ -25,12 +25,12 @@ permalink: /output
 
 ### Papers in conference proceedings
 
-- **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[current draft PDF](https://semanticsarchive.net/Archive/DU1ZGM1Y/paper.pdf)]
-- **Uegaki, Wataru** and Floris Roelofsen. 2018. Do modals take propositions or sets of propositions? Evidence from Japanese *darou*. *Proceedings of SALT 28*. [[current draft PDF](https://semanticsarchive.net/Archive/TkyZDFjY/paper.pdf)]
+- **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[DOI](http://dx.doi.org/10.3765/salt.v28i0.4427)]
+- **Uegaki, Wataru** and Floris Roelofsen. 2018. Do modals take propositions or sets of propositions? Evidence from Japanese *darou*. *Proceedings of SALT 28*. [[DOI](http://dx.doi.org/10.3765/salt.v28i0.4411)]
 - **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[PDF](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
 - **Uegaki, Wataru**. 2016. Japanese alternative questions and a unified in-situ semantics for *ka*. *Proceedings of Sinn und Bedeutung 21*. [[PDF](https://wataruu.files.wordpress.com/2015/07/ka-paper_sub21.pdf)]
 - Roelofsen, Floris and **Wataru Uegaki**. 2016. The distributive ignorance puzzle. *Proceedings of Sinn und Bedeutung 21*. [[PDF](http://semanticsarchive.net/Archive/GU1ZTE4Z/paper.pdf)]
-- **Uegaki, Wataru**. 2014. Predicting the distribution of exhaustive inference in a QUD model. *Proceedings of NELS 44*. [[PDF](https://wataruu.files.wordpress.com/2015/07/uegaki-nels44.pdf)]
+- **Uegaki, Wataru**. 2014. Predicting the distribution of exhaustive inference in a QUD model. *Proceedings of NELS 44*. [[PDF](uegaki-nels44.pdf)]
 - **Uegaki, Wataru**. 2014. Japanese alternative questions are disjunctions of polar questions. *Proceedings of SALT 24*. [[DOI](http://dx.doi.org/10.3765/salt.v24i0.2423)]
 - **Uegaki, Wataru** and Paul Marty. 2013. Investigating the alternative-sensitivity of "know". *Proceedings of SALT 23*. [[DOI](http://dx.doi.org/10.3765/salt.v23i0.2668)]
 - Kubota, Yusuke and **Wataru Uegaki**. 2009. Nothing else for something else: a variable-free account. *Proceedings of SALT 19*. [[DOI](http://dx.doi.org/10.3765/salt.v19i0.2527)]
