@@ -16,7 +16,8 @@ permalink: /output
 
 ### Manuscripts in review cycles
 
-- **Uegaki, Wataru** and Yasutada Sudo. under revision. The *_hope-wh_ puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
+- **Uegaki, Wataru** and Yasutada Sudo. 2nd version under review. The *_hope-wh_ puzzle. [[PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
+- **Uegaki, Wataru**. submitted. The existential/uniqueness presupposition of wh-complements projects from the answers. (please contact me to obtain a copy)
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
 
 ### Monographs
