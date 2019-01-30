@@ -40,4 +40,4 @@ I also specialise in **Japanese linguistics**. I investigate various aspects of 
 - Syntax-Semantics Interface
   - wh-indeterminates
   - disjunctive constructions
-  - Morpho-phonology of Japanese dialects
+- Morpho-phonology of Japanese dialects
