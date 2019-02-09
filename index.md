@@ -38,9 +38,9 @@ I am a researcher of **formal semantics and pragmatics**. This means that I stud
 - **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
 - **December 2018**: Two articles published in *Proceedings of SALT28*: ['On the projection of the presupposition of embedded questions'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789) and ['Do modals take propositions or sets of propositions? Evidence from Japanese *darou*'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809) (joint work with Floris Roelofsen)
 
--- 
+---
 
-## Specific research interests
+# Specific research interests
 
 - Semantics and Pragmatics
   - Semantics and pragmatics of interrogatives and their responses
