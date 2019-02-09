@@ -25,19 +25,29 @@ My profiles can also be found on the following sites:
 
 I am a researcher of **formal semantics and pragmatics**. This means that I study the systematic patterns in which people draw various kinds of inferences from conversations in natural language, and try to understand systems governing such patterns by formalizing them using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
 
-I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world.
+<!-- I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world. -->
 
 **Teaching** is an essential part of my academic life. See the [Teaching page](wuegaki.github.io/teaching) for my teaching philosophy and information on classes I have taught.
 
 ---
 
+# Recent and upcoming talks, papers etc.
+
+- **May 17-19, 2019**: Talk 'Issue-sensitive discourse particles and intonational compliance: the case of Japanese *ne* and *yo*', at SALT29, UCLA.
+- **January 2019**: Submitted a revised manuscript ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo). 
+- **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
+- **December 2018**: Two articles published in *Proceedings of SALT28*: ['On the projection of the presupposition of embedded questions'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789) and ['Do modals take propositions or sets of propositions? Evidence from Japanese *darou*'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809) (joint work with Floris Roelofsen)
+
+-- 
+
 ## Specific research interests
 
 - Semantics and Pragmatics
   - Semantics and pragmatics of interrogatives and their responses
-  - Semantics of attitude predicates and their selectional properties
+  - Semantics and pragmatics of sentence-final particles
   - Constraints on lexical denotations
 - Syntax-Semantics Interface
+  - Semantics of attitude predicates and their selectional properties
   - wh-indeterminates
   - disjunctive constructions
 - Morpho-phonology of Japanese dialects
