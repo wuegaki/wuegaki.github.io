@@ -6,7 +6,7 @@ permalink: /output
 
 ### Refereed articles in journals and book series
 
-- **Uegaki, Wataru** and Yasutada Sudo. accepted. The *_hope-wh_ puzzle. _Natural Language Semantics_ [[current draft PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
+- **Uegaki, Wataru** and Yasutada Sudo. accepted. The &ast;_hope-wh_ puzzle. _Natural Language Semantics_ [[current draft PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. to appear. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)].
 - **Uegaki, Wataru**. 2019. The semantics of question-embedding predicates. *Language and Linguistics Compass*.  13(1). [[DOI](https://doi.org/10.1111/lnc3.12308)] (Open access)
 - __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle _ka_ in indefinites, questions and disjunctions. _Glossa: a journal of general linguistics_. 3(1), 14. [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
