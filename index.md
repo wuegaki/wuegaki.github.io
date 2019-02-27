@@ -34,7 +34,7 @@ I am a researcher of **formal semantics and pragmatics**. This means that I stud
 # Recent and upcoming talks, papers etc.
 
 - **May 17-19, 2019**: Talk 'Issue-sensitive discourse particles and intonational compliance: the case of Japanese *ne* and *yo*', at SALT29, UCLA.
-- **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo) is accepted for publication in *Natural Language Semantics*. 
+- **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo) is accepted for publication in _Natural Language Semantics_. 
 - **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
 - **December 2018**: Two articles published in *Proceedings of SALT28*: ['On the projection of the presupposition of embedded questions'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789) and ['Do modals take propositions or sets of propositions? Evidence from Japanese *darou*'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809) (joint work with Floris Roelofsen)
 
