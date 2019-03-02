@@ -4,14 +4,14 @@ title: Who I am.
 permalink: /
 ---
 
-I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**. I also serve as the leader of **[the NWO collaboration project ''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
+I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
 
 Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **[Institute of Cultural and Linguistic Studies](http://www.icl.keio.ac.jp/)** at **Keio University** in Tokyo, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris. I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015. 
 
 I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
 - a review board member of *[Snippets](http://www.ledonline.it/snippets/)*
-- a steering committee member of [Logic and Engineering in Natural Language Semantics](http://www.is.ocha.ac.jp/~bekki/lenls/).
+- a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/).
 
 My profiles can also be found on the following sites:
 - [Profile in the Leiden University website](https://www.universiteitleiden.nl/en/staffmembers/wataru-uegaki)
@@ -25,7 +25,7 @@ I am a researcher of **formal semantics and pragmatics**. This means that I stud
 
 More specifically, I am interested in the **relationship between word meanings and grammatical rules**. My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not). 
 
-More recently, I am interested in the distinction between **'logical' words** (such as *every* and *or*) and **'non-logical' words**s (such as *walk* and *bird*). Is there a fundamental distinction between how these two kinds of word meanings are represented in our mind? I try to address this question by investigating the manifestation of this distinction in **syntax-semantics interface** (i.e., the relationship between meaning and grammar) and [**cross-linguistic universals in word meanings**](wuegaki.github.io/modal-universals/) (i.e., what kind of common properties hold between word meanings across languages). 
+More recently, I am interested in the distinction between **'logical' words** (such as *every* and *or*) and **'non-logical' words** (such as *walk* and *bird*). Is there a fundamental distinction between how these two kinds of word meanings are represented in our mind? I try to address this question by investigating the manifestation of this distinction in **syntax-semantics interface** (i.e., the relationship between meaning and grammar) and [**cross-linguistic universals in word meanings**](wuegaki.github.io/modal-universals/) (i.e., what kind of common properties hold between word meanings across languages). 
 
 <!-- I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world. -->
 
