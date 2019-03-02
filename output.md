@@ -4,7 +4,7 @@ title: Output
 permalink: /output
 ---
 
-### Refereed articles in journals and book series
+### Refereed articles in journals
 
 - **Uegaki, Wataru** and Yasutada Sudo. accepted. The *_hope-wh_ puzzle. _Natural Language Semantics_. [[current draft PDF](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf)]
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. to appear. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)]
