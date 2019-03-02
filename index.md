@@ -4,11 +4,9 @@ title: Who I am.
 permalink: /
 ---
 
-I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**.
+I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**. I also serve as the leader of **[the NWO collaboration project Searching for semantic universals in the modal domain](wuegaki.github.io/modal-universals/)**. 
 
-Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **[Institute of Cultural and Linguistic Studies](http://www.icl.keio.ac.jp/)** at **Keio University** in Tokyo, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris.
-
-In 2015, I completed my PhD study at **[MIT Linguistics](http://web.mit.edu/linguistics/)**, with the PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)*. The dissertation addresses a family of puzzles for the compositional semantics of the question-embedding phenomena, posed by variability in forms and interpretations of clauses embedded under attitude predicates, such as *know*, *predict*, *surprise* and *wonder*.
+Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **[Institute of Cultural and Linguistic Studies](http://www.icl.keio.ac.jp/)** at **Keio University** in Tokyo, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris. I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015. 
 
 I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
@@ -23,7 +21,9 @@ My profiles can also be found on the following sites:
 
 # What I do.
 
-I am a researcher of **formal semantics and pragmatics**. This means that I study the systematic patterns in which people draw various kinds of inferences from conversations in natural language, and try to understand systems governing such patterns by formalizing them using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
+I am a researcher of **formal semantics and pragmatics**. This means that I study how humans draw various inferences from conversations in a natural language, and try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
+
+More specifically, I am interested in the relationship between word meanings and grammatical rules. My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not). More recently, I am interested in the distinction between 'logical' words (such as *every* and *or*) and 'non-logical' words (such as *walk* and *bird*). Is there a fundamental distinction between how these two kinds of word meanings are represented in our mind? I try to address this question by investigating the manifestation of this distinction in the syntax-semantics interface (i.e., the relationship between meaning and grammar) and cross-linguistic universals in word meanings (i.e., what kind of common properties hold between word meanings across languages). 
 
 <!-- I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world. -->
 
