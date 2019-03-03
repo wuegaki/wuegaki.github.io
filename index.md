@@ -21,7 +21,7 @@ My profiles can also be found on the following sites:
 
 # What I do.
 
-I am a researcher of **formal semantics and pragmatics**. This means that I study how humans draw various inferences from conversations in a natural language, and try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
+I am a researcher of **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural languages, and I try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
 
 Specifically, I am interested in the **relationship between word meanings and grammatical rules**. My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not). 
 
