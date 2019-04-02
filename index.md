@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who I am.
+title: About
 permalink: /
 ---
 
