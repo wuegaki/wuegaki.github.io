@@ -6,7 +6,9 @@ permalink: /
 
 I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
 
-Previously, I was a [JSPS](http://www.jsps.go.jp/english/) postdoctoral fellow in the **[Institute of Cultural and Linguistic Studies](http://www.icl.keio.ac.jp/)** at **Keio University** in Tokyo, during which I was also a visiting scholar at **[Institut Jean-Nicod](http://www.institutnicod.org/)** in Paris. I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015. 
+As of August 1st, 2019, I will be Lecturer in Semantics in the Department of Linguistics and English Language of the University of Edinburgh. 
+
+I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015. 
 
 I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
@@ -35,10 +37,11 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 # Recent and upcoming talks, papers etc.
 
+- **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I will be organizing [a workshop on semantic universals](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
+- **June 26-27, 2019**: Invited talk at [InqBnB3](https://projects.illc.uva.nl/inquisitivesemantics/workshops/inqbnb3).
 - **May 17-19, 2019**: Talk 'Issue-sensitive discourse particles and intonational compliance: the case of Japanese *ne* and *yo*', at SALT29, UCLA.
 - **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo) accepted for publication in _Natural Language Semantics_. 
 - **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
-- **December 2018**: Two articles published in *Proceedings of SALT28*: ['On the projection of the presupposition of embedded questions'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789) and ['Do modals take propositions or sets of propositions? Evidence from Japanese *darou*'](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809) (joint work with Floris Roelofsen)
 
 ---
 
