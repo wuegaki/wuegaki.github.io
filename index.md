@@ -39,7 +39,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 - **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I will be organizing [a workshop on semantic universals](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
 - **September 4-6, 2019**: Talk 'An EEG investigation into clausal selection' in [Sinn und Bedeutung 24](https://sites.google.com/site/sinnundbedeutung24/) at Osnabrück University (joint work with Leticia Pablos Robles, Yasutada Sudo & Hiromu Sakai). 
-- **June 7, 2019**: New manuscript with Yasutada Sudo 'Question Marker Drop in Japanese and Generalized Factivity'. (Please contact me to obtain a copy)
+- **June 7, 2019**: New short paper with Yasutada Sudo ['Question Marker Drop in Japanese and Generalized Factivity'](http://id.nii.ac.jp/1130/00004520/). 
 - **June 26-27, 2019**: Invited talk at [InqBnB3](https://projects.illc.uva.nl/inquisitivesemantics/workshops/inqbnb3).
 - **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo) accepted for publication in _Natural Language Semantics_. 
 - **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
