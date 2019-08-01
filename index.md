@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am Lecturer (~ North American Assistant Professor) in Semantics in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)** of **University of Edinburgh**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
+I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
 
 I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. 
 
@@ -37,6 +37,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 - **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I will be organizing [a workshop on semantic universals](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
 - **September 4-6, 2019**: Talk 'An EEG investigation into clausal selection' in [Sinn und Bedeutung 24](https://sites.google.com/site/sinnundbedeutung24/) at Osnabrück University (joint work with Leticia Pablos Robles, Yasutada Sudo & Hiromu Sakai). 
+- **July, 2019**: New manuscript [The existential/uniqueness presupposition of wh-complements projects from the answers](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf).
 - **June 26-27, 2019**: Invited talk at [InqBnB3](https://projects.illc.uva.nl/inquisitivesemantics/workshops/inqbnb3).
 - **June 22, 2019**: New short paper with Yasutada Sudo ['Question Marker Drop in Japanese and Generalized Factivity'](http://id.nii.ac.jp/1130/00004520/). 
 - **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://semanticsarchive.net/Archive/jczM2U5Y/paper.pdf) (joint work with Yasutada Sudo) accepted for publication in _Natural Language Semantics_. 
