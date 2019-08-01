@@ -6,10 +6,10 @@ permalink: /contact
 
 ### Office address
 
-Matthias de Vrieshof 2 (office number 106A)  
-2311 BZ Leiden  
-The Netherlands
+Room 2.10, Dugald Stewart Building
+3 Charles Street, Edinburgh  
+EH8 9AD United Kingdom
 
 ### Email
 
-w.uegaki # hum.leidenuniv.nl
+wuegaki # gmail.com
