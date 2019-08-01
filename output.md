@@ -21,7 +21,7 @@ permalink: /output
 
 ### Manuscripts in review cycles
 
-- **Uegaki, Wataru**. submitted. The existential/uniqueness presupposition of wh-complements projects from the answers. (please contact me to obtain a copy)
+- **Uegaki, Wataru**. submitted. The existential/uniqueness presupposition of wh-complements projects from the answers. [[PDF](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)]
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
 
 ### Monographs
