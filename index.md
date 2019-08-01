@@ -4,11 +4,9 @@ title: About
 permalink: /
 ---
 
-I am an Assistant Professor (Universitair Docent) at **Leiden University** in the **[Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics)** and the **[Institute for Area Studies](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies)**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
+I am Lecturer (~ North American Assistant Professor) in Semantics in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)** of **University of Edinburgh**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
 
-As of August 1st, 2019, I will be Lecturer in Semantics in the **Department of Linguistics and English Language** of the **University of Edinburgh**. 
-
-I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015. 
+I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. 
 
 I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
