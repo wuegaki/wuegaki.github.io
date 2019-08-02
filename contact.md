@@ -12,4 +12,4 @@ EH8 9AD United Kingdom
 
 ### Email
 
-wuegaki # gmail.com
+w.uegaki # ed.ac.uk
