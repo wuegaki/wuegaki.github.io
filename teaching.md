@@ -17,10 +17,10 @@ Teaching is an essential part of my academic life. Through teaching and interact
 ### Current and upcoming courses
 
 - Fall 2019
-    - MSc Introduction to Semantics and Pragmatics
+    - MSc "Introduction to Semantics and Pragmatics"
 - Spring 2020: 
-    - Contributor to BA Linguistics and English Language 1B (6 hours)
-    - BA Current Issues in Semantics and Pragmatics (co-taught with Rob Truswell)
+    - Contributor to the undergraduate pre-honours course "Linguistics and English Language 1B" (6 hours)
+    - Undergraduate honours course "Current Issues in Semantics and Pragmatics" (co-taught with Rob Truswell)
 
 ### Past courses (at Leiden)
 
