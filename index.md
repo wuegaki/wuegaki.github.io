@@ -14,7 +14,7 @@ I also have the following external appointments in academic journals and confere
 - a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/).
 
 My profiles can also be found on the following sites:
-- [Profile in the website of the University of Edinburgh](https://www.ed.ac.uk/profile/wataru-uegaki)
+- [Profile in the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki)
 - [Google scholar profile](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ)
 
 ---
