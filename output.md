@@ -7,8 +7,8 @@ permalink: /output
 ### Refereed articles in journals
 
 
-- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. to appear. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics*. [[PDF](http://semanticsarchive.net/Archive/TdhYjRiM/paper.pdf)]
-- **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. Online First [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
+- Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)]
+- **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. 23(4):323–356 [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
 - **Uegaki, Wataru**. 2019. The semantics of question-embedding predicates. *Language and Linguistics Compass*.  13(1). [[DOI](https://doi.org/10.1111/lnc3.12308)] (Open access)
 - __Uegaki, Wataru__. 2018. A unified semantics for the Japanese Q-particle _ka_ in indefinites, questions and disjunctions. _Glossa: a journal of general linguistics_. 3(1), 14. [[DOI](http://doi.org/10.5334/gjgl.238)] (Open access)
 - Elliott, Patrick D., Nathan Klinedinst, Yasutada Sudo and **Wataru Uegaki**. 2017. Predicates of relevance and theories of question embedding. *Journal of Semantics* 34(3): 547–554. [[DOI](http://doi.org/10.1093/jos/ffx008)]
@@ -22,7 +22,7 @@ permalink: /output
 
 ### Manuscripts in review cycles
 
-- **Uegaki, Wataru**. submitted. The existential/uniqueness presupposition of wh-complements projects from the answers. [[PDF](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)]
+- **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. [[PDF](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)] under the 2nd round of review at _Linguistics and Philosophy_ 
 - **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
 
 ### Monographs
