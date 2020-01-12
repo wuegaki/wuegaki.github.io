@@ -4,4 +4,4 @@ title: CV
 permalink: /cv
 ---
 
-The PDF version of my CV can be found [here](https://www.icloud.com/iclouddrive/09OzAs09OdDHeUaS-O23fsj7w#cv). 
+The PDF version of my CV can be found [here](https://www.dropbox.com/s/e2iwoq87pkpy2io/cv.pdf?dl=0). 
