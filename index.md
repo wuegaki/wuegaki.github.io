@@ -37,7 +37,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 <!-- - **August, 2020**: Course at the **EGG Summer School** -->
 - **August, 2020**: Invited talk at [**ExUni Workshop @ ESSLLI2020**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/).
-- **June 15-19, 2020**: Course at the **[LOT Summer School**](https://lotschool.nl/), Leiden.
+- **June 15-19, 2020**: Course at the [**LOT Summer School**](https://lotschool.nl/), Leiden.
 - **April 23-26, 2020**: Talk "Searching for a universal constraint on the denotation of clause-embedding predicates" (co-authored with Floris Roelofsen) at [**SALT 30 @ Cornell**](https://saltconf.github.io/salt30/index.html). 
 - **March 31, 2020**: Together with Uli Sauerland, I will be organizing [**the workshop on semantic universals in the modal and attitudinal domain**](https://glowlinguistics.org/43/workshops/semantic-universals/) as part of GLOW43, Berlin. 
 - **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I organized [**a workshop on semantic universals**](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
