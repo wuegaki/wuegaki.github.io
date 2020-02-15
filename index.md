@@ -35,13 +35,14 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 # Recent and upcoming talks, papers etc.
 
-- **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I will be organizing [a workshop on semantic universals](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
+<!-- - **August, 2020**: Course at the **EGG Summer School** -->
+- **August, 2020**: Invited talk at [**ExUni Workshop @ ESSLLI2020**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/).
+- **June 15-19, 2020**: Course at the **[LOT Summer School**](https://lotschool.nl/), Leiden.
+- **April 23-26, 2020**: Talk "Searching for a universal constraint on the denotation of clause-embedding predicates" (co-authored with Floris Roelofsen) at [**SALT 30 @ Cornell**](https://saltconf.github.io/salt30/index.html). 
+- **March 31, 2020**: Together with Uli Sauerland, I will be organizing [**the workshop on semantic universals in the modal and attitudinal domain**](https://glowlinguistics.org/43/workshops/semantic-universals/) as part of GLOW43, Berlin. 
+- **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I organized [**a workshop on semantic universals**](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
 - **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://doi.org/10.1007/s11050-019-09156-5) (joint work with Yasutada Sudo) has now appeared in _Natural Language Semantics_. (Open access)
 - **September 4-6, 2019**: Talk 'An EEG investigation into clausal selection' in [Sinn und Bedeutung 24](https://sites.google.com/site/sinnundbedeutung24/) at Osnabrück University (joint work with Leticia Pablos Robles, Yasutada Sudo & Hiromu Sakai). 
-- **July, 2019**: New manuscript [The existential/uniqueness presupposition of wh-complements projects from the answers](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf).
-- **June 26-27, 2019**: Invited talk at [InqBnB3](https://projects.illc.uva.nl/inquisitivesemantics/workshops/inqbnb3).
-- **June 22, 2019**: New short paper with Yasutada Sudo ['Question Marker Drop in Japanese and Generalized Factivity'](http://id.nii.ac.jp/1130/00004520/). 
-- **January 2019**: Article ['The semantics of question-embedding predicates'](https://doi.org/10.1111/lnc3.12308) published in *Language and Linguistics Compass*  (Open access)
 
 ---
 
