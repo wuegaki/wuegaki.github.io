@@ -38,7 +38,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 <!-- - **August, 2020**: Course at the **EGG Summer School** -->
 - **August, 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
 - **August 17-20, 2020**: Talk "Searching for a universal constraint on the denotation of clause-embedding predicates" (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
-- **July 19, 2020**: New manuscript ['*NANDand the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
+- **July 19, 2020**: New manuscript ['*NAND and the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
 - **June 15-19, 2020**: Course at the [**LOT Summer School**](https://lotschool.nl/), Virtual (organized by Leiden University).
 - **April, 2020**: Manuscript '[The existential/uniqueness presupposition of wh-complements projects from the answers](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)' accepted for publication in *Linguistics and Philosophy*. 
 - **March 31, 2020**: Together with Uli Sauerland, I have organized [**the workshop on semantic universals in the modal and attitudinal domain**](https://glowlinguistics.org/43/workshops/semantic-universals/) as part of GLOW43. 
