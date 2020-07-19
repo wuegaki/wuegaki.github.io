@@ -23,7 +23,8 @@ permalink: /output
 ### Manuscripts in review cycles
 
 <!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
-- **Uegaki, Wataru**. under revision. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (current decision: revise and resubmit; please contact me to obtain a copy)
+- **Uegaki, Wataru**. ['*NANDand the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
+- **Uegaki, Wataru**. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (please contact me to obtain a copy)
 
 ### Monographs
 

@@ -8,10 +8,10 @@ I am a Lecturer (~ North American Assistant Professor) in Semantics at **Univers
 
 I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University.
 
-I also have the following external appointments in academic journals and conferences:
+<!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
 - a review board member of *[Snippets](http://www.ledonline.it/snippets/)*
-- a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/).
+- a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/). -->
 
 My profiles can also be found on the following sites:
 - [Profile in the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki)
@@ -38,13 +38,14 @@ More recently, I am interested in the distinction between **'logical' words** (s
 <!-- - **August, 2020**: Course at the **EGG Summer School** -->
 - **August, 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
 - **August 17-20, 2020**: Talk "Searching for a universal constraint on the denotation of clause-embedding predicates" (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
+- **July 19, 2020**: New manuscript ['*NANDand the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
 - **June 15-19, 2020**: Course at the [**LOT Summer School**](https://lotschool.nl/), Virtual (organized by Leiden University).
 - **April, 2020**: Manuscript '[The existential/uniqueness presupposition of wh-complements projects from the answers](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)' accepted for publication in *Linguistics and Philosophy*. 
 - **March 31, 2020**: Together with Uli Sauerland, I have organized [**the workshop on semantic universals in the modal and attitudinal domain**](https://glowlinguistics.org/43/workshops/semantic-universals/) as part of GLOW43. 
-- **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I organized [**a workshop on semantic universals**](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019. 
+<!-- - **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I organized [**a workshop on semantic universals**](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019.  -->
 - **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://doi.org/10.1007/s11050-019-09156-5) (joint work with Yasutada Sudo) has now appeared in _Natural Language Semantics_. (Open access)
-- **September 4-6, 2019**: Talk 'An EEG investigation into clausal selection' in [Sinn und Bedeutung 24](https://sites.google.com/site/sinnundbedeutung24/) at Osnabrück University (joint work with Leticia Pablos Robles, Yasutada Sudo & Hiromu Sakai). 
-
+<!-- - **September 4-6, 2019**: Talk 'An EEG investigation into clausal selection' in [Sinn und Bedeutung 24](https://sites.google.com/site/sinnundbedeutung24/) at Osnabrück University (joint work with Leticia Pablos Robles, Yasutada Sudo & Hiromu Sakai). 
+ -->
 ---
 
 # Specific research interests
