@@ -6,8 +6,8 @@ permalink: /teaching
 
 ### Teaching philosophy
 
-Teaching courses and supervising students is an essential part of my academic
-life, as it offers me an opportunity to make a positive impact on students’
+Teaching and supervision are an essential part of my academic
+life, as they offer me opportunities to make a positive impact on students'
 lives using my academic expertise. Through teaching and interacting with
 students, I broadened my perspectives on basic issues in linguistics, and
 deepened my understanding of theoretical approaches to those issues. My
@@ -52,6 +52,6 @@ linguistics as a student.
 	- Takanobu Nakamura (Topic: Semantics of distributivity in Japanese; co-supervised with Rob Truswell and Bryan Pickel)
 	- Thomas Stephen (Topic: Compositional semantics of clausal complementation; co-supervised with Rob Truswell and Bryan Pickel)
 	- Esther Lam (Topic: On classifiers in Nung; co-supervised with Nik Gisborne and Bert Remijsen)
-- I have (co-)supervised more than 20 Undergraduate and Master-level dissertation at Leiden and Edinburgh. 
+- I have (co-)supervised more than 20 Undergraduate and Master-level dissertations at Leiden and Edinburgh. 
 
 
