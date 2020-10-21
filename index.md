@@ -29,7 +29,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 <!-- I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world. -->
 
-**Teaching** is an essential part of my academic life. See the [Teaching page](wuegaki.github.io/teaching) for my teaching philosophy and information on classes I have taught.
+**Teaching and supervision** are an essential part of my academic life. See the [Teaching page](wuegaki.github.io/teaching) for my teaching philosophy, information on classes I have taught, and students I have supervised.
 
 ---
 
