@@ -38,6 +38,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 <!-- - **August, 2020**: Course at the **EGG Summer School** -->
 - **August, 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
+- **December, 2020**: Invited talk at [**DIP Colloquium @ ILLC, Amsterdam**](http://projects.illc.uva.nl/LoLa/DIP-Colloquium/). 
 - **October, 2021**: With Floris Roelofsen, I have written up a new manuscript ['Searching for a universal constraint on the possible denotations of clause-embedding predicates'](https://semanticsarchive.net/Archive/mI0YWFjM/paper.pdf) to appear in *Proceedings of SALT 30*.
 - **September, 2021**: Paper ['The existential/uniqueness presupposition of wh-complements projects from the answers'](https://doi.org/10.1007/s10988-020-09309-4) published online in _Linguistics and Philosophy_. (Open access)
 - **August 17-20, 2020**: Talk "Searching for a universal constraint on the denotation of clause-embedding predicates" (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
