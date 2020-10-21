@@ -6,7 +6,7 @@ permalink: /output
 
 ### Refereed articles in journals
 
-- **Uegaki, Wataru**. accepted. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy*. [[current version PDF](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)]
+- **Uegaki, Wataru**. 2020. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* Online First. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] (Open access)
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
 - **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. 23(4):323–356 [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
 - **Uegaki, Wataru**. 2019. The semantics of question-embedding predicates. *Language and Linguistics Compass*.  13(1). [[DOI](https://doi.org/10.1111/lnc3.12308)] (Open access)
@@ -32,6 +32,7 @@ permalink: /output
 
 ### Papers in conference proceedings
 
+- Roelofsen, Floris and **Wataru Uegaki**. to appear. Searching for a universal constraint on the possible denotations of clause-embedding predicates. *Proceedings of SALT 30*. [[current draft PDF](https://semanticsarchive.net/Archive/mI0YWFjM/paper.pdf)]
 - **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[DOI](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789)]
 - **Uegaki, Wataru** and Floris Roelofsen. 2018. Do modals take propositions or sets of propositions? Evidence from Japanese *darou*. *Proceedings of SALT 28*. [[DOI](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809)]
 - **Uegaki, Wataru** and Yasutada Sudo. 2017. The anti-rogativity of non-veridical preferential predicates. *Proceedings of Amsterdam Colloquium 2017*. [[PDF](http://semanticsarchive.net/Archive/WNmZDFmM/paper.pdf)]
