@@ -6,12 +6,10 @@ permalink: /teaching
 
 ### Teaching philosophy
 
-Teaching and supervision are an essential part of my academic
-life, as they offer me opportunities to make a positive impact on students'
-lives using my academic expertise. Through teaching and interacting with
-students, I broadened my perspectives on basic issues in linguistics, and
-deepened my understanding of theoretical approaches to those issues. My
-teaching philosophy consists of three principles:
+Teaching and supervision are an essential part of my academic life. Through
+teaching and interacting with students, I broadened my perspectives on basic
+issues in linguistics, and deepened my understanding of theoretical approaches
+to those issues. My teaching philosophy consists of three principles:
 
 1. make clear statements about long-term goals and short-term goals that a student has to achieve;
 2. facilitate students’ interest through tangible but non-trivial puzzles;
