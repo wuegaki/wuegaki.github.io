@@ -57,4 +57,4 @@ permalink: /output
 - Uegaki, Wataru. Ms. A scale-based semantics for Japanese resultatives. 
 - Uegaki, Wataru. Ms. [r]-epenthesis in Fukuoka Japanese verbal inflection. Generals Paper, MIT.
 
-[.](https://ling.auf.net/lingbuzz/004979/current.pdf?_s=yikkH4TlfXn3sH39) [.](https://ling.auf.net/lingbuzz/005101/current.pdf?_s=2oE3y-rIrxYtAfi2) [.](https://ling.auf.net/lingbuzz/004994/current.pdf?_s=GYWoYnU3vB3dD3Hf) [.](https://semanticsarchive.net/Archive/WJmOGE5M/paper.pdf) [.](https://semanticsarchive.net/Archive/jc5NmIxN/Question%20Embedding)
+[.](https://ling.auf.net/lingbuzz/004979/current.pdf?_s=yikkH4TlfXn3sH39) [.](https://ling.auf.net/lingbuzz/005101/current.pdf?_s=2oE3y-rIrxYtAfi2) [.](https://ling.auf.net/lingbuzz/004994/current.pdf?_s=GYWoYnU3vB3dD3Hf) [.](https://semanticsarchive.net/Archive/WJmOGE5M/paper.pdf) [ ](https://semanticsarchive.net/Archive/jc5NmIxN/Question%20Embedding)
