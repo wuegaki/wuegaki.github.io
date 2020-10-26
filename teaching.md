@@ -51,6 +51,6 @@ linguistics as a student.
 	- Takanobu Nakamura (Topic: Semantics of distributivity in Japanese; co-supervised with Rob Truswell and Bryan Pickel)
 	- Thomas Stephen (Topic: Compositional semantics of clausal complementation; co-supervised with Rob Truswell and Bryan Pickel)
 	- Esther Lam (Topic: On classifiers in Nung (Tai); co-supervised with Nik Gisborne and Bert Remijsen)
-- I have (co-)supervised more than 20 Undergraduate and Master-level theses/dissertations at Leiden and Edinburgh. 
+- I have (co-)supervised more than 20 Undergraduate and Master-level dissertations at Leiden and Edinburgh. 
 
 
