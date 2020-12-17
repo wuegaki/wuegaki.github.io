@@ -37,18 +37,15 @@ More recently, I am interested in the distinction between **'logical' words** (s
 
 
 <!-- - **August, 2020**: Course at the **EGG Summer School** -->
+- **October, 2021**: Keynote talk at **Japanese/Korean Linguistics** @ Nagoya/NINJAL.
 - **August, 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
+- **December 2020**: [My review of Hadas Kotek's book _Composing questions_](https://muse.jhu.edu/article/775372) has been published in *Language*. 
 - **December, 2020**: Invited talk at [**DIP Colloquium @ ILLC, Amsterdam**](http://projects.illc.uva.nl/LoLa/DIP-Colloquium/). 
+- **November, 2020**: AHRC and DFG have [agreed](https://www.ukri.org/news/uk-german-collaborative-research-projects-announced/?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn) to fund the collaborative 'A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding', for which I will be a co-PI with Maribel Romero (Konstanz). Postdoc searches coming soon! 
 - **October, 2020**: Floris Roelofsen and I have written up a new manuscript ['Searching for a universal constraint on the possible denotations of clause-embedding predicates'](https://semanticsarchive.net/Archive/mI0YWFjM/paper.pdf) to appear in *Proceedings of SALT 30*.
 - **September, 2020**: Paper ['The existential/uniqueness presupposition of wh-complements projects from the answers'](https://doi.org/10.1007/s10988-020-09309-4) published online in _Linguistics and Philosophy_. (Open access)
-- **August 17-20, 2020**: Talk 'Searching for a universal constraint on the denotation of clause-embedding predicates' (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
-- **July 19, 2020**: New manuscript ['*NAND and the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
-- **June 15-19, 2020**: Course at the [**LOT Summer School**](https://lotschool.nl/), Virtual (organized by Leiden University).
-<!-- - **April, 2020**: Manuscript '[The existential/uniqueness presupposition of wh-complements projects from the answers](https://semanticsarchive.net/Archive/WFkMzZlZ/paper.pdf)' accepted for publication in *Linguistics and Philosophy*.  -->
-- **March 31, 2020**: Together with Uli Sauerland, I have organized [**the workshop on semantic universals in the modal and attitudinal domain**](https://glowlinguistics.org/43/workshops/semantic-universals/) as part of GLOW43. 
-<!-- - **December 18-20, 2019**: Together with Floris Roelofsen and Jakub Szymanik, I organized [**a workshop on semantic universals**](http://events.illc.uva.nl/AC/AC2019/Workshops/) as part of the Amsterdam Colloquium 2019.  -->
-- **February 2019**: The paper ['The *_hope-wh_ puzzle'](https://doi.org/10.1007/s11050-019-09156-5) (joint work with Yasutada Sudo) has now appeared in _Natural Language Semantics_. (Open access)
-
+<!-- - **August 17-20, 2020**: Talk 'Searching for a universal constraint on the denotation of clause-embedding predicates' (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
+- **July 19, 2020**: New manuscript ['*NAND and the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf)  -->
 
 ---
 
