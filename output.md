@@ -14,7 +14,7 @@ permalink: /output
 
 #### Monographs
 
-- **Uegaki, Wataru**. under contract and in progress. *Question-oriented attitudes*. Studies in Linguistics and Philosophy series, Springer.\
+- **Uegaki, Wataru**. under contract and in progress. *Question-oriented attitudes*. Studies in Linguistics and Philosophy series, Springer.
 
 ### Published or accepted works
 
