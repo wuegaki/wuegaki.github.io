@@ -41,9 +41,10 @@ More recently, I am interested in the distinction between **'logical' words** (s
 - **August, 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
 - **December 2020**: [My review of Hadas Kotek's book _Composing questions_](https://muse.jhu.edu/article/775372) has been published in *Language*. 
 - **December, 2020**: Invited talk at [**DIP Colloquium @ ILLC, Amsterdam**](http://projects.illc.uva.nl/LoLa/DIP-Colloquium/). 
-- **November, 2020**: AHRC and DFG have [agreed](https://www.ukri.org/news/uk-german-collaborative-research-projects-announced/?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn) to fund the collaborative 'A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding', for which I will be a co-PI with Maribel Romero (Konstanz). Postdoc searches coming soon! 
+- **November, 2020**: AHRC and DFG have [agreed](https://www.ukri.org/news/uk-german-collaborative-research-projects-announced/?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn) to fund the collaborative project 'A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding', for which I will be a co-PI with Maribel Romero (Konstanz). Postdoc searches coming soon! 
 - **October, 2020**: Floris Roelofsen and I have written up a new manuscript ['Searching for a universal constraint on the possible denotations of clause-embedding predicates'](https://semanticsarchive.net/Archive/mI0YWFjM/paper.pdf) to appear in *Proceedings of SALT 30*.
 - **September, 2020**: Paper ['The existential/uniqueness presupposition of wh-complements projects from the answers'](https://doi.org/10.1007/s10988-020-09309-4) published online in _Linguistics and Philosophy_. (Open access)
+
 <!-- - **August 17-20, 2020**: Talk 'Searching for a universal constraint on the denotation of clause-embedding predicates' (co-authored with Floris Roelofsen) at [**SALT 30**](https://saltconf.github.io/salt30/index.html). 
 - **July 19, 2020**: New manuscript ['*NAND and the communicative efficiency model'](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf)  -->
 
