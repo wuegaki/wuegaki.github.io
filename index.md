@@ -6,7 +6,7 @@ permalink: /
 
 I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)**. I also serve as the leader of **the NWO international collaboration project** **[''Searching for semantic universals in the modal domain''](wuegaki.github.io/modal-universals/)**. 
 
-I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University.
+I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
@@ -16,6 +16,8 @@ I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 
 My profiles can also be found on the following sites:
 - [Profile in the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki)
 - [Google scholar profile](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ)
+
+My pronouns are he/him. 
 
 ---
 
