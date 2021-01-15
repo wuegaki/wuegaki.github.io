@@ -17,9 +17,7 @@ I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 
 - a review board member of *[Snippets](http://www.ledonline.it/snippets/)*
 - a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/). -->
 
-My profiles can also be found on the following sites:
-- [Profile in the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki)
-- [Google scholar profile](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ)
+My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ).
 
 My pronouns are he/him. 
 
