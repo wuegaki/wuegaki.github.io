@@ -10,11 +10,11 @@ permalink: /output
 
 <!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
 - **Uegaki, Wataru**. *NAND and the communicative efficiency model [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
-- **Uegaki, Wataru**. Non-local use of the Japanese excessive marker sugi as an overtly QRed degree quantifier. (please contact me to obtain a copy)
+
 
 #### Monographs
 
-- **Uegaki, Wataru**. under contract and in progress. *Question-oriented attitudes*. Studies in Linguistics and Philosophy series, Springer.
+- **Uegaki, Wataru**. under contract and in progress. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
 
 ### Published or accepted works
 
@@ -30,8 +30,8 @@ permalink: /output
 
 #### Papers in conference proceedings, edited volumes and book reviews
 
-
-- Roelofsen, Floris and **Wataru Uegaki**. to appear. Searching for a universal constraint on the possible denotations of clause-embedding predicates. *Proceedings of SALT 30*. [[current draft PDF](https://semanticsarchive.net/Archive/mI0YWFjM/paper.pdf)]
+- **Uegaki, Wataru**. Non-local use of the Japanese excessive marker *sugi* as an overtly QRed degree quantifier. R. Okabe, J. Yashima, Y. Kubota and T. Isono eds., *The Joy and Enjoyment of Linguistic Research: A Festschrift for Takane Ito*.
+- Roelofsen, Floris and **Wataru Uegaki**. 2021. Searching for a universal constraint on the possible denotations of clause-embedding predicates. *Proceedings of SALT 30*. [[DOI](https://doi.org/10.3765/salt.v30i0.4834)]
 - **Uegaki, Wataru**. 2020. Review of *Composing questions* (by Hadas Kotek). _Language_ 96(4): 946--951. [[URL](https://muse.jhu.edu/article/775372)]
 - **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[DOI](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789)]
 - **Uegaki, Wataru** and Floris Roelofsen. 2018. Do modals take propositions or sets of propositions? Evidence from Japanese *darou*. *Proceedings of SALT 28*. [[DOI](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.809)]
