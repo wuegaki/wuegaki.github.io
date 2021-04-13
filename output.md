@@ -9,7 +9,7 @@ permalink: /output
 #### Papers
 
 <!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
-- **Uegaki, Wataru**. *NAND and the communicative efficiency model [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/paper.pdf) 
+- **Uegaki, Wataru**. *The informativeness/complexity trade-off in the domain of Boolean connectives [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev%20-%20Wataru%20Uegaki.pdf) 
 
 
 #### Monographs
