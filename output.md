@@ -14,7 +14,7 @@ permalink: /output
 
 #### Monographs
 
-- **Uegaki, Wataru**. under contract and in progress. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
+- **Uegaki, Wataru**. under contract and manuscript submitted. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
 
 ### Published or accepted works
 
