@@ -7,8 +7,9 @@ permalink: /
 I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)**. 
 
 I also serve as the (co-)PI of the following two collaborative research projects: 
-- NWO international collaboration project **[ModUni: Searching for semantic universals in the modal domain](wuegaki.github.io/modal-universals/)**
-- AHRC/DFG project **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)**
+- AHRC/DFG project **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
+- NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021)
+
 
 I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. 
 
