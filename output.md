@@ -10,7 +10,7 @@ permalink: /output
 
 <!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
 - **Uegaki, Wataru**. The informativeness/complexity trade-off in the domain of Boolean connectives [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev%20-%20Wataru%20Uegaki.pdf) 
-- **Uegaki, Wataru**. The _doubt-whether_ puzzle. [[Preprint DOI](10.31234/osf.io/7ryzu)]
+- **Uegaki, Wataru**. The _doubt-whether_ puzzle. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 
 
 #### Monographs
