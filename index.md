@@ -45,6 +45,7 @@ More recently, I am interested in the distinction between **'logical' words** (s
 - **October 2021**: Keynote talk at [**Japanese/Korean Linguistics**](https://sites.google.com/view/jkconf29/) @ Nagoya/NINJAL.
 - **August 2021**: Invited talk at [**ExUni Workshop @ ESSLLI2021**](http://mmaldonadosyncog.ppls.ed.ac.uk/ExUni/). (postponed from 2020)
 - **Summer 2021**: This summer, I will be teaching at the [**EGG Summer School**](http://www.eggschool.org/). 
+- **July 2021**: New manuscript ['The doubt-whether puzzle'](https://doi.org/10.31234/osf.io/7ryzu). 
 - **December 2020**: [My review of Hadas Kotek's book _Composing questions_](https://muse.jhu.edu/article/775372) has been published in *Language*. 
 - **December 2020**: Invited talk at [**DIP Colloquium @ ILLC, Amsterdam**](http://projects.illc.uva.nl/LoLa/DIP-Colloquium/). 
 - **November 2020**: AHRC and DFG have [agreed](https://www.ukri.org/news/uk-german-collaborative-research-projects-announced/?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn) to fund the collaborative project ['MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding'](https://wuegaki.ppls.ed.ac.uk/mecore/), for which I will be a co-PI with Maribel Romero (Konstanz). 
