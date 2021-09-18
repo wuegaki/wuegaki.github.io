@@ -8,19 +8,15 @@ I am a Lecturer (~ North American Assistant Professor) in Semantics at **Univers
 
 I also serve as the (co-)PI of the following two collaborative research projects: 
 - AHRC/DFG project **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
-- NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021)
+- UKRI Future Leaders Fellowship **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
+<!-- - NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021) -->
 
-
-I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. 
+I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). My pronouns are he/him. 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
 - a review board member of *[Snippets](http://www.ledonline.it/snippets/)*
 - a steering committee member of [Logic and Engineering in Natural Language Semantics (LENLS)](http://www.is.ocha.ac.jp/~bekki/lenls/). -->
-
-My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ).
-
-My pronouns are he/him. 
 
 ---
 
@@ -28,9 +24,14 @@ My pronouns are he/him.
 
 I am a researcher of **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural language, and I try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
 
-Specifically, I am interested in the **relationship between word meanings and grammatical rules**. My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not). 
+Specifically, I am interested in the **relationship between word meanings and grammatical regularities**. My [AHRC/DFG project](https://wuegaki.ppls.ed.ac.uk/mecore/) investigates how meanings of clause-embedding predicates (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with. 
 
-More recently, I am interested in the distinction between **'logical' words** (such as *every* and *or*) and **'non-logical' words** (such as *walk* and *bird*). Is there a fundamental distinction between how these two kinds of word meanings are represented in our mind? I try to address this question by investigating the manifestation of this distinction in **syntax-semantics interface** (i.e., the relationship between meaning and grammar) and [**cross-linguistic universals in word meanings**](wuegaki.github.io/modal-universals/) (i.e., what kind of common properties hold for word meanings across languages). 
+<!-- Following my  -->
+<!-- My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not).  -->
+
+In addition, I am interested in **cross-linguistic generalisations in the lexical semantics of logical vocabularies**. In [my project funded by the UKRI Future Leaders Fellowship](wuegaki.github.io/flf), my team and I will investigate how we can explain such generalisations in terms of what we know about grammar and cognition, by bringing together insights from formal linguistics and evolutionary linguistics. 
+
+<!-- More recently, I am interested in the distinction between **'logical' words** (such as *every* and *or*) and **'non-logical' words** (such as *walk* and *bird*). Is there a fundamental distinction between how these two kinds of word meanings are represented in our mind? I try to address this question by investigating the manifestation of this distinction in **syntax-semantics interface** (i.e., the relationship between meaning and grammar) and [**cross-linguistic universals in word meanings**](wuegaki.github.io/modal-universals/) (i.e., what kind of common properties hold for word meanings across languages).  -->
 
 <!-- I also specialise in **Japanese linguistics**. I investigate various aspects of the grammatical structure of the languages/dialects in Japan, with an aim to uncover the nature of the similarity and differences that the Japanese languages have with other languages in the world. -->
 
