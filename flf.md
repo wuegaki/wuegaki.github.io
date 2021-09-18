@@ -6,7 +6,7 @@ permalink: /flf/
 
 ### Overview
 
-**Logic in Semantic Universals (2022-2025)** is a project funded by the [UKRI
+**Logic in Semantic Universals (2022-2025)** is a 4-year project funded by the [UKRI
 Future Leaders
 Fellowship](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/).
 The goal of the project is to uncover what underlies cross-linguistic
@@ -15,7 +15,7 @@ theoretical and methodological insights from formal semantics and evolutionary
 linguistics.
 
 The project team will consist of Wataru Uegaki (PI), two postdoctoral
-researchers (hired at different stages of the project) and two research
+researchers (hired at different stages of the project), and two research
 assistants. The project will also involve collaboration with a number of
 researchers, including: Jennifer Culbertson, Antonella Sorace (Edinburgh),
 Jakub Szymanik, Floris Roelofsen (Amsterdam) and Malte Zimmermann (Potsdam).
