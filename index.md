@@ -22,9 +22,9 @@ I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 
 
 # What I do.
 
-I am a researcher of **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural language, and I try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
+I am a researcher in **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural language, and I try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
 
-Specifically, I am interested in the **relationship between word meanings and grammatical regularities**. My [AHRC/DFG project](https://wuegaki.ppls.ed.ac.uk/mecore/) investigates how meanings of clause-embedding predicates (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with. 
+Specifically, I am interested in the **relationship between word meanings and grammatical regularities**. My [AHRC/DFG project](https://wuegaki.ppls.ed.ac.uk/mecore/) investigates how meanings of clause-embedding predicates (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with, building on cross-linguistic data collection and experimentation. 
 
 <!-- Following my  -->
 <!-- My PhD dissertation *[Interpreting questions under attitudes](http://hdl.handle.net/1721.1/99318)* addresses a family of puzzles concerning how the meanings of the so-called propositional attitude verbs (such as *believe*, *know*, *surprise* and *wonder*) are related to the types of complement clauses they can combine with (for example, whether the verb can combine with a question or not).  -->
