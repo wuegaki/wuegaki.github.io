@@ -4,14 +4,18 @@ title: About
 permalink: /
 ---
 
-I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the **[Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language)** within the **[School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)**. 
+I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
 
 I also serve as the (co-)PI of the following two collaborative research projects: 
-- AHRC/DFG project **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
-- UKRI Future Leaders Fellowship **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
+- AHRC/DFG project: **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
+- UKRI Future Leaders Fellowship: **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
 <!-- - NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021) -->
 
-I completed my PhD at **[MIT Linguistics](http://web.mit.edu/linguistics/)** in 2015, and was previously at Leiden University. My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). My pronouns are he/him. 
+I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. 
+
+My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
+
+My pronouns are he/him. 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
