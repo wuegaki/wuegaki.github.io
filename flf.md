@@ -14,11 +14,11 @@ generalisations in the semantics of logical vocabularies by bringing together
 theoretical and methodological insights from formal semantics and evolutionary
 linguistics.
 
-The project team will consist of Wataru Uegaki (PI) and two postdoctoral
-researchers (hired at different stages of the project). The project will also
-involve collaboration with a number of researchers, including: Jennifer 
-Culbertson, Antonella Sorace (Edinburgh), Jakub Szymanik, Floris Roelofsen (Amsterdam)
-and Malte Zimmermann (Potsdam). 
+The project team will consist of Wataru Uegaki (PI), two postdoctoral
+researchers (hired at different stages of the project) and two research
+assistants. The project will also involve collaboration with a number of
+researchers, including: Jennifer Culbertson, Antonella Sorace (Edinburgh),
+Jakub Szymanik, Floris Roelofsen (Amsterdam) and Malte Zimmermann (Potsdam).
 
 ### Project description
 
@@ -52,24 +52,24 @@ universals in the meanings of logical words. The situation is pressing because
 logical words provide the scaffolding for productivity, the central design
 feature of human language that sets it apart from the communication systems of
 other species (Hockett 1960); with the help of logical words like and, we are
-able to produce an infinite number of sentences (e.g., we can recursively
-embed a sentence within a sentence as in S and [S and [...]]). Since these
-words set human languages apart from animal communication systems, it is
-plausible that they reflect specialised features of our language faculty,
-rather than domain-general functional pressures. Despite this importance,
-however, the cognitive basis underlying the universal properties of logical
-words (e.g., (1b,1c) above and more exemplified below) has yet to be
-thoroughly investigated, due to lack of a unified semantic theory for relevant
-meanings and methodological difficulty in designing experiments to test
-distinct hypotheses.
+able to produce an infinite number of sentences. Since these words set human
+languages apart from animal communication systems, it is plausible that they
+reflect specialised features of our language faculty, rather than
+domain-general functional pressures. Despite this importance, however, the
+cognitive basis underlying the universal properties of logical words has yet
+to be thoroughly investigated, due to lack of a unified semantic theory for
+relevant meanings and methodological difficulty in designing experiments to
+test distinct hypotheses.
 
 Recent theoretical and methodological developments in linguistics and
-cognitive science finally en- able us to fill this gap. Theoretically,
-advances in semantic theories now make it possible to analyse the meanings of
-various logical words in a unified framework, making it possible to state
-potential gen- eralizations holding in logical vocabularies in precise ways
-(Kratzer, 2012; Gärdenfors, 2014; Ciardelli et al., 2018; Chemla et al.,
-2018). These theoretical advances come hand in hand with methodological
+cognitive science finally enable us to fill this gap. Theoretically, advances
+in semantic theories now make it possible to analyse the meanings of various
+logical words in a unified framework, making it possible to state potential
+generalisations holding in logical vocabularies in precise ways (Kratzer,
+2012; Gärdenfors, 2014; Ciardelli et al., 2018; Chemla et al., 2018). This
+includes the PI's own theoretical contribution (Uegaki, 2019), which has
+enabled a unified formal analysis of the meanings of various clause-embedding
+predicates. These theoretical advances come hand in hand with methodological
 developments in cross-linguistic data collection. In addition, evolutionary
 linguistics has shown that distinct aspects of linguistic communication can be
 parcelled out and investigated systematically in the lab and computer
