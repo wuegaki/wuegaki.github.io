@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FLF
+title: UKRI FLF Project "Logic in Semantic Universals"
 permalink: /flf/
 ---
 
