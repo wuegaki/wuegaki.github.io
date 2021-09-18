@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a Lecturer (~ North American Assistant Professor) in Semantics at **University of Edinburgh** in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
+I am a Lecturer (~ North American Assistant Professor) in Semantics at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
 
 I also serve as the (co-)PI of the following two collaborative research projects: 
 - AHRC/DFG project: **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
@@ -26,7 +26,7 @@ My pronouns are he/him.
 
 # What I do.
 
-I am a researcher in **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural language, and I try to understand systems governing such human behaviors using theoretical tools made available by **linguistics**, **logic** and **cognitive science**.
+I am a researcher in **formal semantics and pragmatics**. That is, I study how humans draw various inferences from conversations in natural language, and I try to understand systems governing such human behaviors using theoretical tools made available by linguistics, logic, and cognitive science.
 
 Specifically, I am interested in the **relationship between word meanings and grammatical regularities**. My [AHRC/DFG project](https://wuegaki.ppls.ed.ac.uk/mecore/) investigates how meanings of clause-embedding predicates (such as *believe*, *know*, *surprise* and *wonder* in English) are related to regularities about the types of complement clauses they can combine with, building on cross-linguistic data collection and experimentation. 
 
