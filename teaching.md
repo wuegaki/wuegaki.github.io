@@ -21,13 +21,9 @@ linguistics as a student.
 
 ### Current and upcoming courses (at Edinburgh)
 
-- Fall 2020
-    - 'Guided Research in Linguistics A: cross-linguistic variation and universal in semantics' (upper-level undergraduate; MSc)
-    - Semantics block (2 weeks) of 'Linguistics and English Language 2A' (2nd-year undergraduate)
-    - Contributor, 'Pragmatics' (upper-level undergraduate; MSc)
-- Spring 2021:
-    - Course organiser, 'Linguistics and English Language 1B' (1st-year undergraduate)
-    - Contributor, 'Syntax: Theory and Practice' (upper-level undergraduate; MSc)
+- Autumn 2021: 
+	- Course organizer, 'Semantic Theory' (upper-level undergraduate; MSc)
+	- Contributor, 'Pragmatics' (upper-level undergraduate; MSc)
 
 ### Past courses 
 
@@ -35,6 +31,13 @@ linguistics as a student.
 	- Spring 2020: Semantics block (2 weeks) of 'Linguistics and English Language 1B' (1st-year undergraduate)
 	- Spring 2020: 'Current Issues in Semantics and Pragmatics' (Upper-level undergraduate/MSc; co-taught with Rob Truswell)
 	- Fall 2019: Course organiser, 'Introduction to Semantics and Pragmatics' (MSc; Edinburgh)
+	- Autumn 2021
+    	- 'Guided Research in Linguistics A: cross-linguistic variation and universal in semantics' (upper-level undergraduate; MSc)
+   		- Semantics block (2 weeks) of 'Linguistics and English Language 2A' (2nd-year undergraduate)
+    	- Contributor, 'Pragmatics' (upper-level undergraduate; MSc)
+	- Spring 2021:
+    	- Course organiser, 'Linguistics and English Language 1B' (1st-year undergraduate)
+    	- Contributor, 'Syntax: Theory and Practice' (upper-level undergraduate; MSc)
 
 - **At Leiden University**
 	- Fall 2018: 'Semantics: Current issues' (MA; LUCL)
@@ -52,5 +55,4 @@ linguistics as a student.
 	- Thomas Stephen (Topic: Compositional semantics of clausal complementation; co-supervised with Rob Truswell and Bryan Pickel)
 	- Esther Lam (Topic: On classifiers in Nung (Tai); co-supervised with Nik Gisborne and Bert Remijsen)
 - I have (co-)supervised more than 20 Undergraduate and Master-level dissertations at Leiden and Edinburgh. 
-
 
