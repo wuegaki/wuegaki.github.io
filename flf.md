@@ -33,16 +33,16 @@ lexical semantics, i.e. the study of word meanings.
 However, despite the rich empirical landscape, a fundamental question still
 remains open: what, if any, core properties of human language the semantic
 universals are rooted in. An influential hypothesis states that semantic
-universals are explained by a functional principle favouring a linguis- tic
+universals are explained by a functional principle favouring a linguistic
 system that supports efficient communication (Kemp et al., 2018). Importantly,
 this principle is highly general, and suggests that seemingly disparate
 semantic phenomena may in fact reflect a unified functional pressure. However,
-researchers disagree on whether such a general func- tional perspective alone
+researchers disagree on whether such a general functional perspective alone
 explains the wide range of semantic universals observed in the literature. A
 distinct view is typically favoured in theoretical linguistics, according to
 which specific grammatical knowledge encoded in our language faculty—which
 cannot be reduced to functional pressures— plays an important role in the
-explanation of semantic universals (e.g., Keenan & Stavi, 1986).
+explanation of semantic universals (e.g., Keenan & Stavi, 1986; Chierchia 2013).
 
 There is a gap in the current research that hinders us from resolving this
 tension. While the cognitive basis for the universal patterns in the meanings
