@@ -51,10 +51,10 @@ investigated, there has been scant research into the cognitive basis of the
 universals in the meanings of logical words. The situation is pressing because
 logical words provide the scaffolding for productivity, the central design
 feature of human language that sets it apart from the communication systems of
-other species (Hockett 1960); with the help of logical words like and, we are
-able to produce an infinite number of sentences. Since these words set human
-languages apart from animal communication systems, it is plausible that they
-reflect specialised features of our language faculty, rather than
+other species (Hockett 1960); with the help of logical words like _and_, we
+are able to produce an infinite number of sentences. Since these words set
+human languages apart from animal communication systems, it is plausible that
+they reflect specialised features of our language faculty, rather than
 domain-general functional pressures. Despite this importance, however, the
 cognitive basis underlying the universal properties of logical words has yet
 to be thoroughly investigated, due to lack of a unified semantic theory for
