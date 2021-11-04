@@ -21,7 +21,7 @@ permalink: /output
 
 #### Refereed articles in journals
 
-- **Uegaki, Wataru**. 2020. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* Online First. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] (Open access)
+- **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
 - **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. 23(4):323–356 [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
 - **Uegaki, Wataru**. 2019. The semantics of question-embedding predicates. *Language and Linguistics Compass*.  13(1). [[DOI](https://doi.org/10.1111/lnc3.12308)] (Open access)
@@ -31,7 +31,7 @@ permalink: /output
 
 #### Papers in conference proceedings, edited volumes and book reviews
 
-- **Uegaki, Wataru**. Non-local use of the Japanese excessive marker *sugi* as an overtly QRed degree quantifier. R. Okabe, J. Yashima, Y. Kubota and T. Isono eds., *The Joy and Enjoyment of Linguistic Research: A Festschrift for Takane Ito*.
+- **Uegaki, Wataru**. 2021. Non-local use of the Japanese excessive marker *sugi* as an overtly QRed degree quantifier. R. Okabe, J. Yashima, Y. Kubota and T. Isono eds., *The Joy and Enjoyment of Linguistic Research: A Festschrift for Takane Ito*.
 - Roelofsen, Floris and **Wataru Uegaki**. 2021. Searching for a universal constraint on the possible denotations of clause-embedding predicates. *Proceedings of SALT 30*. [[DOI](https://doi.org/10.3765/salt.v30i0.4834)]
 - **Uegaki, Wataru**. 2020. Review of *Composing questions* (by Hadas Kotek). _Language_ 96(4): 946--951. [[URL](https://muse.jhu.edu/article/775372)]
 - **Uegaki, Wataru**. 2018. On the projection of the presupposition of embedded questions. *Proceedings of SALT 28*. [[DOI](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.789)]
