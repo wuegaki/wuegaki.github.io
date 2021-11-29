@@ -9,7 +9,7 @@ permalink: /output
 #### Papers
 
 <!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
-- **Uegaki, Wataru**. The informativeness/complexity trade-off in the domain of Boolean connectives. Accepted with minor revisions at _Linguistic Inquiry (Remarks and Replies)_ [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev2_nonanon%20-%20Wataru%20Uegaki(1).pdf) 
+
 - **Uegaki, Wataru**. The _doubt-whether_ puzzle. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 
 
@@ -21,6 +21,7 @@ permalink: /output
 
 #### Refereed articles in journals
 
+- **Uegaki, Wataru**. accepted. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry (Remarks and Replies)_ [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev2_nonanon%20-%20Wataru%20Uegaki(1).pdf) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
 - **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. 23(4):323–356 [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
