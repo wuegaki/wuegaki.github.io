@@ -20,7 +20,7 @@ Currently, the lab is running the following two research projects:
 - [Milica Denić](https://www.researchgate.net/profile/Milica-Denic), Postdoctoral Fellow (from April 2022; currently at Amsterdam)
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow 
 - Ella Hannon, Research Assistant 
-- Victoria-Elliot Bush, Research Assistant
+- Victoria-Elliot Bush, Research Assistant (QMUL)
 
 ### Collaborators
 
