@@ -6,7 +6,7 @@ permalink: /lab/
 
 Edinburgh Meaning Science Lab combines theories and methodologies from
 cross-linguistic formal semantics and evolutionary linguistics to investigate
-core mechanisms by which (various forms of) meanings are conveyed via natural
+the systems that allow us humans to communicate meanings through natural
 language interactions.
 
 Currently, the lab is running the following two research projects: 
