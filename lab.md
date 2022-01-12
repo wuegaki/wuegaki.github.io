@@ -23,6 +23,7 @@ Currently, the lab is running the following two research projects:
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow 
 - Ella Hannon, Research Assistant 
 - Victoria-Elliot Bush, Research Assistant (QMUL)
+- [Esther Lam](https://www.ed.ac.uk/profile/esther-lam) (PhD student)
 
 ### Collaborators
 
