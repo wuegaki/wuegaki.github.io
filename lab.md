@@ -24,6 +24,7 @@ Currently, the lab is running the following two research projects:
 - Ella Hannon, Research Assistant 
 - Victoria-Elliot Bush, Research Assistant (QMUL)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
+- [Takanobu Nakamura](https://takanobunakamura.github.io/), PhD student
 
 ### Collaborators
 
