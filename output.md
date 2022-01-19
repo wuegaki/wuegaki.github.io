@@ -18,7 +18,7 @@ permalink: /output
 
 #### Refereed articles in journals
 
-- **Uegaki, Wataru**. to appear. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_ OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
+- **Uegaki, Wataru**. to appear. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 - **Uegaki, Wataru**. accepted. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry (Remarks and Replies)_ [[PDF]](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev2_nonanon%20-%20Wataru%20Uegaki(1).pdf) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
