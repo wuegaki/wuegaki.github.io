@@ -48,7 +48,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **March 2022**: Invited talk at [TaLK 2022](https://sites.google.com/view/talk2022/home) @ Keio. 
 - **February 2022**: Invited seminar talk at Tel Aviv University. 
 - **January 2022**: My project as a [**UKRI Future Leaders Fellow**](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) 'Logic in Semantic Universals' starts. I am extremely excited and honoured to receive the fellowship. 
-- **December 2021**: Paper ['The informativeness/complexity trade-off in the domain of Boolean connectives'](https://semanticsarchive.net/Archive/2M0YTUzN/nand3_infocomp_rev2_nonanon%20-%20Wataru%20Uegaki(1).pdf) is accepted by _Linguistic Inquiry_.
+- **December 2021**: Paper ['The informativeness/complexity trade-off in the domain of Boolean connectives'](https://doi.org/10.1162/ling_a_00461) is accepted by _Linguistic Inquiry_.
 - **November 2021**: Colloquium talk at USC Department of Linguistics. 
 - **November 2021**: Colloquium talk at [University of York Department of Linguistics](https://www.york.ac.uk/language/news/departmental/2021/autumn-term-departmental-colloquium-series/). 
 - **October 2021**: Keynote talk at [**Japanese/Korean Linguistics**](https://sites.google.com/view/jkconf29/) @ Nagoya/NINJAL.
