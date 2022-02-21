@@ -48,7 +48,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **April/May 2022**: With Mora Maldonado and Jennifer Culbertson, I will present the talk 'Learnability and constraints on the semantics of clause-embedding predicates' at [GLOW 45](https://glowlinguistics.org/45/) and [ELM 2](https://www.elm-conference.net/elm-2/).
 - **April 2022**: The [MECORE](https://wuegaki.ppls.ed.ac.uk/mecore/) group will present the talk 'Cross-linguistic patterns in the selectional restrictions of preferential predicates' at [GLOW 45](https://glowlinguistics.org/45/). 
 - **March 2022**: Invited talk at [TaLK 2022](https://sites.google.com/view/talk2022/home) @ Keio. 
-- **February 2022**: I start as an editorial board member of [Natural Language Semantics](https://www.springer.com/journal/11050). 
+- **February 2022**: I have started as an editorial board member of [Natural Language Semantics](https://www.springer.com/journal/11050). 
 - **February 2022**: Invited seminar talk at Tel Aviv University. 
 - **January 2022**: My project as a [**UKRI Future Leaders Fellow**](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) 'Logic in Semantic Universals' starts. I am extremely excited and honoured to receive the fellowship. 
 - **December 2021**: Paper ['The informativeness/complexity trade-off in the domain of Boolean connectives'](https://doi.org/10.1162/ling_a_00461) is accepted by _Linguistic Inquiry_.
