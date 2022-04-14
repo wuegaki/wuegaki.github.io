@@ -15,7 +15,7 @@ I serve as the (co-)PI of the following two collaborative research projects:
 - UKRI Future Leaders Fellowship: **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
 <!-- - NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021) -->
 
-<span style="color:red">I am recruiting a postdoc to join the UKRI FLF group. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 11 May 5pm UK time)<span style="color:red">. 
+<span style="color:red">I am recruiting a postdoc to join the UKRI FLF group. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 11 May 5pm UK time).<span style="color:red">
 
 I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. 
 

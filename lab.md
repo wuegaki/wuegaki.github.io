@@ -16,6 +16,8 @@ Currently, the lab is running the following two research projects:
 - AHRC/DFG project: [MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/) (2021-2024)
 - UKRI Future Leaders Fellowship: [Logic in Semantic Universals](http://www.wataruuegaki.com/flf/) (2022-2025)
 
+<span style="color:red">I am recruiting a postdoc to join the UKRI FLF group. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 11 May 5pm UK time).<span style="color:red">
+
 ### Members
 
 - Wataru Uegaki, Principal Investigator
