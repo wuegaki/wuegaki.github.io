@@ -6,8 +6,6 @@ permalink: /
 
 
 
---- 
-
 I am a [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) and Lecturer (~ North American Assistant Professor) in Semantics at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
 
 I serve as the (co-)PI of the following two collaborative research projects: 
@@ -52,6 +50,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 # Recent and upcoming talks, papers etc.
 
 - **April/May/July 2022**: With Mora Maldonado and Jennifer Culbertson, I will present the talk 'Learnability and constraints on the semantics of clause-embedding predicates' at [GLOW 45](https://glowlinguistics.org/45/), [ELM 2](https://www.elm-conference.net/elm-2/) and [CogSci 2022](https://cognitivesciencesociety.org/cogsci-2022/).
+- **May 2022**: Invited workshop talk at [the CoSaQ closing workshop](https://www.jakubszymanik.com/CoSaQ/events/closing-workshop/) @ Amsterdam. 
 - **May 2022**: Invited colloquium talk at Ruhr-University Bochum. 
 - **April 2022**: The [MECORE](https://wuegaki.ppls.ed.ac.uk/mecore/) group will present the talk 'Cross-linguistic patterns in the selectional restrictions of preferential predicates' at [GLOW 45](https://glowlinguistics.org/45/). 
 - **March 2022**: Invited talk at [TaLK 2022](https://sites.google.com/view/talk2022/home) @ Keio. 
@@ -59,8 +58,6 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **February 2022**: Invited seminar talk at Tel Aviv University. 
 - **January 2022**: My project as a [**UKRI Future Leaders Fellow**](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) 'Logic in Semantic Universals' starts. I am extremely excited and honoured to receive the fellowship. 
 - **December 2021**: Paper ['The informativeness/complexity trade-off in the domain of Boolean connectives'](https://doi.org/10.1162/ling_a_00461) is accepted by _Linguistic Inquiry_.
-<!-- - **November 2021**: Colloquium talk at USC Department of Linguistics. 
-- **November 2021**: Colloquium talk at [University of York Department of Linguistics](https://www.york.ac.uk/language/news/departmental/2021/autumn-term-departmental-colloquium-series/).  -->
 
 
 <!-- ---
