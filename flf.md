@@ -4,7 +4,7 @@ title: UKRI FLF Project "Logic in Semantic Universals"
 permalink: /flf/
 ---
 
-<span style="color:red">I am recruiting a postdoc to join the project. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 10 May 5pm UK time; Previously, I have mistakenly stated here that the deadline was 11 May. Please email me if you missed the deadline because of this).<span style="color:red">
+<!-- <span style="color:red">I am recruiting a postdoc to join the project. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 10 May 5pm UK time; Previously, I have mistakenly stated here that the deadline was 11 May. Please email me if you missed the deadline because of this).<span style="color:red"> -->
 
 ### Overview
 
