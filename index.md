@@ -13,13 +13,11 @@ I serve as the (co-)PI of the following two collaborative research projects:
 - UKRI Future Leaders Fellowship: **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
 <!-- - NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021) -->
 
-<span style="color:red">I am recruiting a postdoc to join the UKRI FLF project. See [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3897) for details! (28 months; Application deadline: 10 May 5pm UK time; Previously, I have mistakenly stated here that the deadline was 11 May. Please email me if you missed the deadline because of this). <span style="color:red"> 
-
 I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. 
 
 My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
 
-My pronouns are he/him. 
+My pronouns are he/him. My first name is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese), but people typically pronounce it with a stress on the second syllable in the English-speaking context (and that is fine). 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
