@@ -12,7 +12,7 @@ permalink: /output
 
 #### Monographs
 
-- **Uegaki, Wataru**. accepted. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
+- **Uegaki, Wataru**. in press. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
 
 <!-- ### Published or accepted works -->
 
