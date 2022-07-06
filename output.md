@@ -30,7 +30,7 @@ permalink: /output
 #### Papers in conference proceedings, edited volumes and book reviews
 
 - Madonado, Mora, Jennifer Culbertson, and Wataru Uegaki, to appear. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
-Cognitive Science Society annual meeting (CogSci) 2022_. 
+Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
 - **Uegaki, Wataru**. to appear. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 - **Uegaki, Wataru**. 2021. Non-local use of the Japanese excessive marker *sugi* as an overtly QRed degree quantifier. R. Okabe, J. Yashima, Y. Kubota and T. Isono eds., *The Joy and Enjoyment of Linguistic Research: A Festschrift for Takane Ito*.
 - Roelofsen, Floris and **Wataru Uegaki**. 2021. Searching for a universal constraint on the possible denotations of clause-embedding predicates. *Proceedings of SALT 30*. [[DOI](https://doi.org/10.3765/salt.v30i0.4834)]
