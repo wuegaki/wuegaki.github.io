@@ -19,10 +19,13 @@ Currently, the lab is running the following two research projects:
 ### Members
 
 - Wataru Uegaki, Principal Investigator
-- [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow 
-- Ella Hannon, Research Assistant 
+- [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
+- [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
+- James Engels, Research Assistant (LiSU)
+- Fred Whilbey, Research Assistant (LiSU)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
 - [Takanobu Nakamura](https://takanobunakamura.github.io/), PhD student
+- Tim Jantarungsee, MScR student
 
 ### Collaborators
 
@@ -36,11 +39,11 @@ Currently, the lab is running the following two research projects:
 
 ### Alumni
 
-- Victoria-Elliot Bush, Research Assistant (RA 2022; currently a student at QMUL)
+- Victoria-Elliot Bush, Research Assistant (Intern 2022; currently a student at QMUL)
+- Ella Hannon (RA 2022; currently a PhD student at UBC)
 - Bao Di (MSc 2021)
 - [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently a PhD student at UCLA Philosophy)
 - Yunchong Huang (MSc 2020)
-
 
 ### Talk series
 
