@@ -40,7 +40,7 @@ Currently, the lab is running the following two research projects:
 ### Alumni
 
 - Victoria-Elliot Bush, Research Assistant (Intern 2022; currently a student at QMUL)
-- Ella Hannon (RA 2022; currently a PhD student at UBC)
+- Ella Hannon (RA 2022; currently a PhD student at UBC Linguistics)
 - Bao Di (MSc 2021)
 - [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently a PhD student at UCLA Philosophy)
 - Yunchong Huang (MSc 2020)
