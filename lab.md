@@ -14,13 +14,13 @@ them?'.
 Currently, the lab is running the following two research projects: 
 
 - AHRC/DFG project: [MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/) (2021-2024)
-- UKRI Future Leaders Fellowship: [Logic in Semantic Universals](http://www.wataruuegaki.com/flf/) (2022-2025)
+- UKRI Future Leaders Fellowship: [LiSU: Logic in Semantic Universals](http://www.wataruuegaki.com/flf/) (2022-2025)
 
 ### Members
 
 - Wataru Uegaki, Principal Investigator
-- [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
+- [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
 - James Engels, Research Assistant (LiSU)
 - Fred Whilbey, Research Assistant (LiSU)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
@@ -39,8 +39,8 @@ Currently, the lab is running the following two research projects:
 
 ### Alumni
 
-- Victoria-Elliot Bush, Research Assistant (Intern 2022; currently a student at QMUL)
-- [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (RA 2022; currently a PhD student at UBC Linguistics)
+- Victoria-Elliot Bush, Research Assistant (LiSU Intern 2022; currently a student at QMUL)
+- [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently a PhD student at UBC Linguistics)
 - Mingyang Bian (MSc 2022)
 - Neng Wan (MSc 2022)
 - Bao Di (MSc 2021)
@@ -51,5 +51,5 @@ Currently, the lab is running the following two research projects:
 
 Jointly with Brian Rabern (Edinburgh Philosophy), we organise a talk series by
 external and internal speakers who work on issues in meaning. See
-[here](https://emsg.phil-lang.net/calendar/talks/) for the current schedule of
+[here](https://brianrabern.github.io/emsg/index.html) for the current schedule of
 the talk series.
