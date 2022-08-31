@@ -39,10 +39,10 @@ Currently, the lab is running the following two research projects:
 
 ### Alumni
 
-- Victoria-Elliot Bush, Research Assistant (LiSU Intern 2022; currently a student at QMUL)
-- [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently a PhD student at UBC Linguistics)
 - Mingyang Bian (MSc 2022)
 - Neng Wan (MSc 2022)
+- [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently a PhD student at UBC Linguistics)
+- Victoria-Elliot Bush (LiSU Intern 2022; currently a student at QMUL)
 - Bao Di (MSc 2021)
 - [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently a PhD student at UCLA Philosophy)
 - Yunchong Huang (MSc 2020)
