@@ -24,7 +24,6 @@ Currently, the lab is running the following two research projects:
 - James Engels, Research Assistant (LiSU)
 - Fred Whilbey, Research Assistant (LiSU)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
-- [Takanobu Nakamura](https://takanobunakamura.github.io/), PhD student
 - Tim Jantarungsee, MScR student
 
 ### Collaborators
@@ -39,6 +38,7 @@ Currently, the lab is running the following two research projects:
 
 ### Alumni
 
+- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently Postdoc at ILLC Amsterdam)
 - Mingyang Bian (MSc 2022)
 - Neng Wan (MSc 2022)
 - [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently PhD student at UBC Linguistics)
