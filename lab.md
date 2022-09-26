@@ -21,8 +21,8 @@ Currently, the lab is running the following two research projects:
 - Wataru Uegaki, Principal Investigator
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
-- James Engels, Research Assistant (LiSU)
-- Fred Whilbey, Research Assistant (LiSU)
+- [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant (LiSU)
+- [Fred Whilbey](https://uk.linkedin.com/in/fred-whibley-ab0310192), Research Assistant (LiSU)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
 - Tim Jantarungsee, MScR student
 
