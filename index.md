@@ -50,6 +50,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **Nov 2022**: Wataru will give [an invited colloquium talk at MIT Linguistics](https://linguistics.mit.edu/colloquia/). 
 - **Oct 2022**: Wataru will give guest lectures and an invited seminar talk at [University of Nantes Linguistics Laboratory](https://lling.univ-nantes.fr/).
 - **Oct 2022**: Very warm welcome to two new members of the lab: [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao) and [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192)! They will be working as part of [the LiSU project](http://www.wataruuegaki.com/flf/).  
+- **Sept 2022**: Two PhD students [Takanobu Nakamura](https://takanobunakamura.github.io/) and Tom Stephen have successfully defended their theses. Congratulations Dr Nakamura and Dr Stephen! 
 - **April/May/July 2022**: With Mora Maldonado and Jennifer Culbertson, I will present the talk 'Learnability and constraints on the semantics of clause-embedding predicates' at [GLOW 45](https://glowlinguistics.org/45/), [ELM 2](https://www.elm-conference.net/elm-2/) and [CogSci 2022](https://cognitivesciencesociety.org/cogsci-2022/).
 
 <!-- - **May 2022**: Invited workshop talk at [the CoSaQ closing workshop](https://www.jakubszymanik.com/CoSaQ/events/closing-workshop/) @ Amsterdam. 
