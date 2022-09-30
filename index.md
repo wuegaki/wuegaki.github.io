@@ -45,7 +45,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 ---
 
-# Recent and upcoming talks, papers etc.
+# News (recent and upcoming talks, papers etc.)
 
 - **Nov 2022**: Wataru will give [an invited colloquium talk at MIT Linguistics](https://linguistics.mit.edu/colloquia/). 
 - **Oct 2022**: Wataru will give guest lectures and an invited seminar talk at [University of Nantes Linguistics Laboratory](https://lling.univ-nantes.fr/).
