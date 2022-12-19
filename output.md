@@ -4,11 +4,9 @@ title: Output
 permalink: /output
 ---
 
-<!-- ### Works in progress -->
+### Works in progress
 
-<!-- #### Papers -->
-
-<!--- - **Uegaki, Wataru**. The existential/uniqueness presupposition of wh-complements projects from the answers. Under the 2nd round of review at _Linguistics and Philosophy_ --->
+- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki**, Maribel Romero. under review. Operationalizing focus-sensitivity in a cross-linguistic context. [[lingbuzz](https://lingbuzz.net/lingbuzz/007004)]
 
 #### Monographs
 
@@ -18,7 +16,7 @@ permalink: /output
 
 #### Refereed articles in journals
 
-- **Uegaki, Wataru**. accepted. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
+- **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
 - **Uegaki, Wataru** and Yasutada Sudo. 2019. The *_hope-wh_ puzzle. _Natural Language Semantics_. 23(4):323–356 [[DOI](https://doi.org/10.1007/s11050-019-09156-5)] (Open access)
@@ -31,7 +29,7 @@ permalink: /output
 
 
 - **Uegaki, Wataru**. to appear. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
-- **Uegaki, Wataru**. to appear. Semantic approaches to clause-type selection. In Hajime Ono and Yoichi Miyamoto, eds. _Key Concepts in Experimental Pragmatics_. Kaiyaku-sya.
+- **Uegaki, Wataru**. 2022. Semantic approaches to clause-type selection. In Hajime Ono and Yoichi Miyamoto, eds. _Key Concepts in Experimental Pragmatics_. Kaiyaku-sya.
 - Madonado, Mora, Jennifer Culbertson, and **Wataru Uegaki**, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
 Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
 - **Uegaki, Wataru**. 2021. Non-local use of the Japanese excessive marker *sugi* as an overtly QRed degree quantifier. R. Okabe, J. Yashima, Y. Kubota and T. Isono eds., *The Joy and Enjoyment of Linguistic Research: A Festschrift for Takane Ito*. Kaitaku-sya.

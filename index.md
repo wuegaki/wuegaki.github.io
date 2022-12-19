@@ -47,13 +47,14 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-
-- **Nov 2022**: Wataru will give [an invited colloquium talk at MIT Linguistics](https://linguistics.mit.edu/colloquia/). 
-- **Oct 2022**: Wataru will give guest lectures and an invited seminar talk at [University of Nantes Linguistics Laboratory](https://lling.univ-nantes.fr/).
+- **Dec 2022**: [Ciyang Qing](https://sites.google.com/site/qciyang/) (a postdoc in the MECORE project) has been awarded the [Moray Endowment Fund](https://www.ed.ac.uk/research-office/winning-research-funding/develop-idea/seed-funding/moray-endowment-fund) to investigate the individual variation in judgements about selectional restrictions of clause-embedding predicates. 
+- **Dec 2022**: New manuscript by the MECORE team: ['Operationalizing focus-sensitivity in a cross-linguistic context'](https://lingbuzz.net/lingbuzz/007004).
+- **Nov 2022**: Wataru gave [an invited colloquium talk at MIT Linguistics](https://linguistics.mit.edu/colloquia/). 
+- **Oct 2022**: Wataru gave guest lectures and an invited seminar talk at [University of Nantes Linguistics Laboratory](https://lling.univ-nantes.fr/).
 - **Oct 2022**: Very warm welcome to three new members of the lab: [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192) and [James Engels](https://uk.linkedin.com/in/james-engels)! They will be working as part of [the LiSU project](http://www.wataruuegaki.com/flf/).  
 - **Sept 2022**: Wataru's book [_Question-orientedness and the semantics of clausal complementation_](https://link.springer.com/book/9783031159398) is in press at Springer, to be published as part of their Studies in Linguistics and Philosophy series. 
 - **Sept 2022**: Two PhD students [Takanobu Nakamura](https://takanobunakamura.github.io/) and Tom Stephen have successfully defended their theses. Congratulations Dr Nakamura and Dr Stephen! 
-- **April/May/July 2022**: With Mora Maldonado and Jennifer Culbertson, I will present the talk 'Learnability and constraints on the semantics of clause-embedding predicates' at [GLOW 45](https://glowlinguistics.org/45/), [ELM 2](https://www.elm-conference.net/elm-2/) and [CogSci 2022](https://cognitivesciencesociety.org/cogsci-2022/).
+<!-- - **April/May/July 2022**: With Mora Maldonado and Jennifer Culbertson, I will present the talk 'Learnability and constraints on the semantics of clause-embedding predicates' at [GLOW 45](https://glowlinguistics.org/45/), [ELM 2](https://www.elm-conference.net/elm-2/) and [CogSci 2022](https://cognitivesciencesociety.org/cogsci-2022/). -->
 
 <!-- - **May 2022**: Invited workshop talk at [the CoSaQ closing workshop](https://www.jakubszymanik.com/CoSaQ/events/closing-workshop/) @ Amsterdam. 
 - **May 2022**: Invited colloquium talk at Ruhr-University Bochum. 
