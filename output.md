@@ -8,11 +8,11 @@ permalink: /output
 
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki**, Maribel Romero. under review. Operationalizing focus-sensitivity in a cross-linguistic context. [[lingbuzz](https://lingbuzz.net/lingbuzz/007004)]
 
+### Published or accepted works
+
 #### Monographs
 
 - **Uegaki, Wataru**. in press. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer.
-
-<!-- ### Published or accepted works -->
 
 #### Refereed articles in journals
 
