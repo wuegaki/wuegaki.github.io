@@ -6,7 +6,10 @@ permalink: /output
 
 ### Works in progress
 
+- **Uegaki, Wataru**, Anne Mucha, Nathaniel Imel, Shane Steinert-Threlkeld. under review. 
+Deontic priority in the lexicalization of impossibility modals. [[Preprint](10.31234/osf.io/h63y9)]
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki**, and Maribel Romero. under review. Operationalizing focus-sensitivity in a cross-linguistic context. [[lingbuzz](https://lingbuzz.net/lingbuzz/007004)]
+
 
 ### Published or accepted works
 

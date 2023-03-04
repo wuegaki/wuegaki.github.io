@@ -40,6 +40,8 @@ Currently, the lab is running the following two research projects:
 
 - [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently Postdoc at ILLC Amsterdam)
 - Mingyang Bian (MSc 2022)
+- Sophia Nauta (MECORE RA 2020-2021; currently PhD student at Leiden)
+- Yingyu (Sue) Su (MECORE RA 2020-2022; PhD student at USC from Sept 2023)
 - Neng Wan (MSc 2022)
 - [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently PhD student at UBC Linguistics)
 - Victoria-Elliot Bush (LiSU Intern 2022; currently a student at QMUL)
