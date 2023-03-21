@@ -33,7 +33,8 @@ Currently, the lab is running the following two research projects:
 - [Deniz Özyıldız](https://deniz.fr/) (Konstanz)
 - [Floris Roelofsen](https://www.florisroelofsen.com/) (Amsterdam)
 - [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/index.html) (Konstanz)
-- [Jakub Szymanik](https://jakubszymanik.com/) (Amsterdam)
+- [Shane Steinert-Threlkeld](https://www.shane.st) (Washington)
+- [Jakub Szymanik](https://jakubszymanik.com/) (Trento)
 - [Malte Zimmermann](https://www.ling.uni-potsdam.de/~zimmermann/) (Potsdam)
 
 ### Alumni

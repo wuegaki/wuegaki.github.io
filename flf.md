@@ -16,13 +16,37 @@ generalisations in the semantics of logical vocabularies by bringing together
 theoretical and methodological insights from formal semantics and evolutionary
 linguistics.
 
-The project team will consist of Wataru Uegaki (PI), two postdoctoral
-researchers (hired at different stages of the project), and two research
-assistants. The project will also involve collaboration with a number of
-researchers, including: Jennifer Culbertson, Antonella Sorace (Edinburgh),
-Jakub Szymanik, Floris Roelofsen (Amsterdam) and Malte Zimmermann (Potsdam).
+### Project members
 
-### Project description
+### Members
+
+- Wataru Uegaki, Principal Investigator
+- [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow 
+- [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant 
+- [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), Research Assistant 
+
+<span style="color:red">We will be recruiting a postdoc specialising in either experimental methods or computational modelling to join the project. (32 months). The job advertisement will be open in mid-April 2023.<span style="color:red"> 
+
+### Collaborators
+
+- [Jennifer Culbertson](http://jennifer-culbertson.github.io/) (Edinburgh)
+- [Mora Maldonado](https://moramaldonado.github.io/) (Nantes)
+- [Antonella Sorace](http://www.lel.ed.ac.uk/~antonell/) (Edinburgh)
+- [Shane Steinert-Threlkeld](https://www.shane.st) (Washington)
+- [Jakub Szymanik](https://jakubszymanik.com/) (Trento)
+- [Malte Zimmermann](https://www.ling.uni-potsdam.de/~zimmermann/) (Potsdam)
+
+### Outputs
+
+- Uegaki, Wataru, Anne Mucha, Nathaniel Imel, & Shane Steinert-Threlkeld. under review. 
+Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
+- Mucha, Anne, James Engels, Fred Whibley, & Wataru Uegaki. upcoming. Negative modality in Hausa, Thai and Kîîtharaka. [TripleA 10](https://sites.google.com/view/triplea10), Potsdam. 
+- Uegaki, Wataru, Anne Mucha, James Engels & Fred Whibley. upcoming. Negative modals cross-linguistically. Talk at [Workshop on modality in underdescribed languages: Methods & insights](https://sites.google.com/view/modality-workshop2023/home), Humboldt-Universität zu Berlin. 
+- Madonado, Mora, Jennifer Culbertson, & Wataru Uegaki, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
+Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
+- Uegaki, Wataru. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
+
+<!-- ### Project description
 
 Despite the immense diversity of human languages, linguists have discovered
 robust common properties shared across them. Since such cross-linguistic
@@ -43,7 +67,7 @@ researchers disagree on whether such a general functional perspective alone
 explains the wide range of semantic universals observed in the literature. A
 distinct view is typically favoured in theoretical linguistics, according to
 which specific grammatical knowledge encoded in our language faculty—which
-cannot be reduced to functional pressures— plays an important role in the
+cannot be reduced to functional pressures—plays an important role in the
 explanation of semantic universals (e.g., Keenan & Stavi, 1986; Chierchia 2013).
 
 There is a gap in the current research that hinders us from resolving this
@@ -85,9 +109,19 @@ observed semantic universals exist and what, if any, core properties of human
 language or cognition they are rooted in. Not only will our research address
 one of the most fundamental research questions in linguistics, but it will
 also integrate semantics and evolutionary linguistics at an unprecedented
-scale. 
+scale.  -->
 
-### Research programme
+<!-- ### Project members
+
+####
+
+####
+
+The project team consists of Wataru Uegaki (PI), Anne Mucha, and two research
+assistants. The project will also involve collaboration with a number of
+researchers, including: Jennifer Culbertson, 
+ -->
+<!-- ### Research programme
 
 The project involves the following four stages of research.
 
@@ -101,4 +135,4 @@ experiments employing artificial-language learning.
 - S4. We will extend the project in view of bilingualism research based on the results of Stage 3 to
 investigate aspects of language use shown by non-native language learners.
 
-At the end of the project, we will pursue a theoretical synthesis based on the overall theoretical and experimental findings, with the aim of reaching a conclusive answer to our research question, i.e., what core properties of human language or cognition are the semantic universals rooted in.
+At the end of the project, we will pursue a theoretical synthesis based on the overall theoretical and experimental findings, with the aim of reaching a conclusive answer to our research question, i.e., what core properties of human language or cognition are the semantic universals rooted in. -->
