@@ -18,8 +18,6 @@ linguistics.
 
 ### Project members
 
-### Members
-
 - Wataru Uegaki, Principal Investigator
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow 
 - [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant 
