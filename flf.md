@@ -23,7 +23,7 @@ linguistics.
 - [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant 
 - [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), Research Assistant 
 
-<span style="color:red">We will be recruiting a postdoc specialising in either experimental methods or computational modelling to join the project. (32 months). The job advertisement will be open in mid-April 2023.<span style="color:red"> 
+<span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the project (32 months). The job advertisement will be open in mid-April 2023.<span style="color:red"> 
 
 ### Collaborators
 
