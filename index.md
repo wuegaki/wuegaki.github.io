@@ -17,7 +17,7 @@ I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015
 
 My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
 
-My pronouns are he/him. My first name is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese), but people typically pronounce it with a stress on the second syllable in English-speaking contexts (and that is fine). 
+My pronouns are he/him. My first name Wataru is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese) while my last name Uegaki has an accent on the second mora \[e\], but people typically pronounce both with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
@@ -52,6 +52,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 [ESSLLI 2023 @ Ljubljana](https://2023.esslli.eu/).
 - **June 2023**: Mucha, Engels, Whibley and Uegaki talk at [TripleA](https://sites.google.com/view/triplea10). 
 - **June 2023**: Wataru's invited talk at [InqBnB4 @ IWCS 2023](https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/)
+- 
 - **May 2023**: [Deniz Özyıldız](https://deniz.fr/) and Wataru will present their talk 'Two kinds of question-embedding strategies and veridicality alternations' at [SALT 33](https://saltconf.github.io/salt33/).
 - **May 2023**: The MECORE team (Ciyang Qing, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru) will present a poster "How context and focus modulate form-meaning mismatches in speech reports" at [WCCFL 41 @ UCSC](https://babel.ucsc.edu/wccfl41/). 
 - **Feb 2023**: New manuscript by Uegaki, Mucha, Imel & Steinert-Threlkeld: [Deontic priority in the lexicalization of impossibility modals](https://psyarxiv.com/h63y9)
