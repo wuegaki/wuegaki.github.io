@@ -26,7 +26,7 @@ Currently, the lab is running the following two research projects:
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
 - Tim Jantarungsee, MScR student
 
-<span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the LiSU project (32 months). The job advertisement will be open in mid-April 2023.<span style="color:red"> 
+<span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the project (fulltime until 31 December 2025). Apply [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7002).<span style="color:red"> 
 
 ### Collaborators
 
