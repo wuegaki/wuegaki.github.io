@@ -17,7 +17,7 @@ I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015
 
 My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
 
-My pronouns are he/him. My first name Wataru is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese) while my last name Uegaki has an accent on the second mora \[e\], but people typically pronounce both with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
+My pronouns are he/him. My first name Wataru is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese) while my last name Uegaki has an accent on the second mora \[e\], but people typically pronounce them with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
