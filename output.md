@@ -6,6 +6,7 @@ permalink: /output
 
 ### Works in progress
 
+- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Maribel Romero, \& **Wataru Uegaki**. to appear. A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates. _Proceedings of the SIGTYP Workshop at EACL 2023_.   
 - **Uegaki, Wataru**, Anne Mucha, Nathaniel Imel, Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki**, and Maribel Romero. under review. Operationalizing focus-sensitivity in a cross-linguistic context. [[lingbuzz](https://lingbuzz.net/lingbuzz/007004)]
