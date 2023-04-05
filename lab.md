@@ -36,6 +36,7 @@ Currently, the lab is running the following two research projects:
 <img src="{{ site.baseurl }}/images/IMG_6325.jpg" alt="lab members and and collaborators enjoying beer" style="width: 600px;"/>
 
 - [Jennifer Culbertson](http://jennifer-culbertson.github.io/) (Edinburgh)
+- [Kajsa Djärv](https://kdjarv.wixsite.com/kajsadjarv) (Edinburgh)
 - [Mora Maldonado](https://moramaldonado.github.io/) (Nantes)
 - [Deniz Özyıldız](https://deniz.fr/) (Konstanz)
 - [Floris Roelofsen](https://www.florisroelofsen.com/) (Amsterdam)
