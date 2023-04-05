@@ -18,6 +18,8 @@ Currently, the lab is running the following two research projects:
 
 ### Members
 
+<img src="{{ site.baseurl }}/images/Arthurs.JPG" alt="some lab members on Arthur's Seat" style="width: 600px;"/>
+
 - Wataru Uegaki, Principal Investigator
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
@@ -28,8 +30,6 @@ Currently, the lab is running the following two research projects:
 - Keyu Dong, Undergraduate intern
 
 <span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the project (fulltime until 31 December 2025). Apply [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7002).<span style="color:red"> 
-
-<img src="{{ site.baseurl }}/images/Arthurs.JPG" alt="some lab members on Arthur's Seat" style="width: 600px;"/>
 
 ### Collaborators
 
