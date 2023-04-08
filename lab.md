@@ -55,7 +55,7 @@ Currently, the lab is running the following two research projects:
 - [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently PhD student at UBC Linguistics)
 - Victoria-Elliot Bush (LiSU Intern 2022; currently a student at QMUL)
 - Bao Di (MSc 2021; currently a student at European Masters Program in 
-Language \& Communication Technologies, Saarland University)
+Language & Communication Technologies, Saarland University)
 - [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently PhD student at UCLA Philosophy)
 - Yunchong Huang (MSc 2020)
 
