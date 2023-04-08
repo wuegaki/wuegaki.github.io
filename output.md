@@ -18,6 +18,8 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 - **Uegaki, Wataru**. 2022. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)]
 
+<img src="{{ site.baseurl }}/images/book.jpg" alt="Wataru's Springer Book cover" style="width: 200px;"/>
+
 #### Refereed articles in journals
 
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
