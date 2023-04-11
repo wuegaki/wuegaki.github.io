@@ -7,9 +7,10 @@ permalink: /lab/
 Edinburgh Meaning Science Lab combines theories and methodologies from
 cross-linguistic formal semantics and evolutionary linguistics to investigate
 questions such as: 'How are meanings expressed in natural language?', 'Are there
-universal patterns in the way meanings are encoded in different languages?',
-'If there are such universal patterns, what are the principles that underlie
-them?'.
+universal patterns in the way meanings are encoded in different languages?'; 
+'What are the principles that underlie such universal patterns (if there are any)?'; 'How are language-internal and language-external factors interact in such 
+principles?'.
+
 
 Currently, the lab is running the following two research projects: 
 
