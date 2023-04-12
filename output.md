@@ -6,7 +6,7 @@ permalink: /output
 
 ### Works in progress
 
-- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Maribel Romero and **Wataru Uegaki**. to appear. A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates. _Proceedings of the SIGTYP Workshop at EACL 2023_.   
+
 - **Uegaki, Wataru**, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. under review. Operationalizing focus-sensitivity in a cross-linguistic context. [[lingbuzz](https://lingbuzz.net/lingbuzz/007004)]
@@ -35,6 +35,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 
 - **Uegaki, Wataru**. to appear. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
+- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Maribel Romero and **Wataru Uegaki**. 2023. A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates. _Proceedings of the 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2023)_.   
 - **Uegaki, Wataru**. 2022. Semantic approaches to clause-type selection. In Hajime Ono and Yoichi Miyamoto, eds. _Key Concepts in Experimental Pragmatics_. Kaiyaku-sya.
 - Madonado, Mora, Jennifer Culbertson, and **Wataru Uegaki**, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
 Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
