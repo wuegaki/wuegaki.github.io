@@ -40,7 +40,7 @@ linguistics.
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
 - Mucha, Anne, James Engels, Fred Whibley, & Wataru Uegaki. upcoming. Negative modality in Hausa, Thai and Kîîtharaka. [TripleA 10](https://sites.google.com/view/triplea10), Potsdam. 
 - Uegaki, Wataru, Anne Mucha, James Engels & Fred Whibley. upcoming. Negative modals cross-linguistically. Talk at [Workshop on modality in underdescribed languages: Methods & insights](https://sites.google.com/view/modality-workshop2023/home), Humboldt-Universität zu Berlin. 
-- Madonado, Mora, Jennifer Culbertson, & Wataru Uegaki, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
+- Maldonado, Mora, Jennifer Culbertson, & Wataru Uegaki, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
 Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
 - Uegaki, Wataru. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 
