@@ -49,7 +49,7 @@ Currently, the lab is running the following two research projects:
 ### Alumni
 
 - [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently Postdoc at ILLC Amsterdam)
-- Mingyang Bian (MSc 2022)
+- Mingyang Bian (MSc 2022; PhD student at UPenn from Sept 2023)
 - [Sophia Nauta](https://nl.linkedin.com/in/sophianauta) (MECORE RA 2020-2021; currently PhD student at Leiden)
 - [Yingyu (Sue) Su](https://cn.linkedin.com/in/suyingyu/en) (MECORE RA 2020-2022; PhD student at USC from Sept 2023)
 - Neng Wan (MSc 2022)
