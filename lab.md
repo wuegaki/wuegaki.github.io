@@ -30,8 +30,6 @@ Currently, the lab is running the following two research projects:
 - Tim Jantarungsee, MScR student
 - Keyu Dong, Undergraduate intern
 
-<span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the project (fulltime until 31 December 2025). Apply [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7002).<span style="color:red"> 
-
 ### Collaborators
 
 <img src="{{ site.baseurl }}/images/IMG_6325.jpg" alt="lab members and collaborators enjoying beer" style="width: 600px;"/>
