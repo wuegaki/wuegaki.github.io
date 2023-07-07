@@ -47,8 +47,8 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at SPE/OASIS. 
-- **Sept 2023**: We will give two presentations at Sinn und Bedeutung 28 @ Bochum:
+- **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at [SPE/OASIS](https://spe-uca.sciencesconf.org/). 
+- **Sept 2023**: We will give two presentations at [Sinn und Bedeutung 28 @ Bochum](https://www.ruhr-uni-bochum.de/sub28/index.html.en):
     - Qing, Roelofsen & Uegaki. "Predicates of inquisitive emotion and theories of question embedding" (talk)
     - Mucha, Amaechi, Whibley & Uegaki. "Future and the composition of modal meaning: the view from Igbo" (poster)
 - **August 2023**: Deniz Özyıldız and Ciyang Qing (MECORE) will teach an advanced course "Semantic properties and combinatorial restrictions of attitude predicates" at 
