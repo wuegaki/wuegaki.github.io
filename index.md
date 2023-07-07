@@ -48,15 +48,18 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 # News (recent and upcoming talks, papers etc.)
 
 - **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at SPE/OASIS. 
+- **Sept 2023**: We will give two presentations at Sinn und Bedeutung 28 @ Bochum:
+    - Qing, Roelofsen & Uegaki. "Predicates of inquisitive emotion and theories of question embedding" (talk)
+    - Mucha, Amaechi, Whibley & Uegaki. "Future and the composition of modal meaning: the view from Igbo" (poster)
 - **August 2023**: Deniz Özyıldız and Ciyang Qing (MECORE) will teach an advanced course "Semantic properties and combinatorial restrictions of attitude predicates" at 
 [ESSLLI 2023 @ Ljubljana](https://2023.esslli.eu/).
 - **June 2023**: Mucha, Engels, Whibley and Uegaki talk 'Negative modality in Hausa, Thai and Kîîtharaka' at [TripleA](https://sites.google.com/view/triplea10). 
 - **June 2023**: Wataru's invited talk at [InqBnB4 @ IWCS 2023](https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/)
-- **May 2023**: [Deniz Özyıldız](https://deniz.fr/) and Wataru will present their talk 'Two kinds of question-embedding strategies and veridicality alternations' at [SALT 33](https://saltconf.github.io/salt33/).
+<!-- - **May 2023**: [Deniz Özyıldız](https://deniz.fr/) and Wataru will present their talk 'Two kinds of question-embedding strategies and veridicality alternations' at [SALT 33](https://saltconf.github.io/salt33/).
 - **May 2023**: [The MECORE team](https://wuegaki.ppls.ed.ac.uk/mecore/) will present a talk 'A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates' at [SIGTYP @ EACL](https://sigtyp.github.io/workshop.html).
 - **May 2023**: [The MECORE team](https://wuegaki.ppls.ed.ac.uk/mecore/) will present a poster "How context and focus modulate form-meaning mismatches in speech reports" at [WCCFL 41 @ UCSC](https://babel.ucsc.edu/wccfl41/). 
 - **Feb 2023**: New manuscript by Uegaki, Mucha, Imel & Steinert-Threlkeld: [Deontic priority in the lexicalization of impossibility modals](https://psyarxiv.com/h63y9)
-- **Jan 2023**: Wataru's book [_Question-orientedness and the semantics of clausal complementation_](https://link.springer.com/book/9783031159398) has been published as part of Springer Studies in Linguistics and Philosophy. 
+- **Jan 2023**: Wataru's book [_Question-orientedness and the semantics of clausal complementation_](https://link.springer.com/book/9783031159398) has been published as part of Springer Studies in Linguistics and Philosophy.  -->
 
 <!-- ---
 
