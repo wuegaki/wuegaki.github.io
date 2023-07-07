@@ -23,8 +23,6 @@ linguistics.
 - [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant 
 - [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), Research Assistant 
 
-<span style="color:red">We will be recruiting a postdoc specialising in experimental methods and/or computational modelling to join the project (fulltime until 31 December 2025). Apply [here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7002).<span style="color:red"> 
-
 ### Collaborators
 
 - [Jennifer Culbertson](http://jennifer-culbertson.github.io/) (Edinburgh)
