@@ -6,7 +6,7 @@ permalink: /
 
 
 
-I am a [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) and Lecturer (~ North American Assistant Professor) in Semantics at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (~ Associate Professor) and [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/)  in Semantics at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
 
 I serve as the (co-)PI of the following two collaborative research projects: 
 - AHRC/DFG project: **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
