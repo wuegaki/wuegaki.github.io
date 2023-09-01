@@ -26,8 +26,7 @@ Currently, the lab is running the following two research projects:
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
 - [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant (LiSU)
 - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
-- [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), PhD student (from Sept 2023)
-- Tim Jantarungsee, MScR student
+- [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), PhD student
 - Keyu Dong, Undergraduate intern
 - [Kuromitsuto](https://twitter.com/wataruu/status/1668310596918591490), Research Distractor
 
@@ -48,16 +47,17 @@ Currently, the lab is running the following two research projects:
 ### Alumni
 
 - [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently postdoc at ILLC Amsterdam)
-- Mingyang Bian (MSc 2022; PhD student at UPenn Linguistics from Sept 2023)
+- Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
+- Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)
 - [Sophia Nauta](https://www.universiteitleiden.nl/medewerkers/sophia-nauta) (MECORE RA 2020-2021; currently PhD student at Leiden Linguistics)
-- [Yingyu (Sue) Su](https://cn.linkedin.com/in/suyingyu/en) (MECORE RA 2020-2022; PhD student at USC from Sept 2023)
+- [Yingyu (Sue) Su](https://cn.linkedin.com/in/suyingyu/en) (MECORE RA 2020-2022; currently PhD student at USC)
 - Neng Wan (MSc 2022)
 - [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently PhD student at UBC Linguistics)
 - Victoria-Elliot Bush (LiSU Intern 2022; currently student at QMUL Linguistics)
-- Bao Di (MSc 2021; currently a student at European Masters Program in 
+- Bao Di (MSc 2021; currently at European Masters Program in 
 Language & Communication Technologies, Saarland University)
 - [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently PhD student at UCLA Philosophy)
-- Yunchong Huang (MSc 2020; MSc student at ILLC Amsterdam from Sept 2023)
+- Yunchong Huang (MSc 2020; currently MSc student at ILLC Amsterdam)
 
 ### Talk series
 
