@@ -6,7 +6,7 @@ permalink: /
 
 
 
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (~ Associate Professor) and [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (≈ Associate Professor) and [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). 
 
 I serve as the (co-)PI of the following two collaborative research projects: 
 - AHRC/DFG project: **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
@@ -17,7 +17,7 @@ I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015
 
 My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
 
-My pronouns are he/him. My first name Wataru \[wataɾɯ\] is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese) while my last name Uegaki \[ɯegaki̥\] has an accent on the second mora \[e\], but people typically pronounce them with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
+My pronouns are he/him. My first name _Wataru_ \[wataɾɯ\] is [unaccented](https://direct.mit.edu/ling/article-abstract/47/3/471/632/Unaccentedness-in-Japanese) while my last name _Uegaki_ \[ɯegaki̥\] has an accent on the second mora \[e\], but people typically pronounce them with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
 
 <!-- I also have the following external appointments in academic journals and conferences:
 - an editorial board member of *[Semantics & Pragmatics](http://semprag.org/)*
@@ -47,6 +47,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
+- **January 2024**: Wataru's invited talk at University of Leipzig [Research Unit on Cyclic optimization](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization). 
 - **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at [SPE/OASIS](https://spe-uca.sciencesconf.org/). 
 - **Sept 2023**: We will give two presentations at [Sinn und Bedeutung 28 @ Bochum](https://www.ruhr-uni-bochum.de/sub28/index.html.en):
     - Qing, Roelofsen & Uegaki. "Predicates of inquisitive emotion and theories of question embedding" (talk)
