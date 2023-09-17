@@ -50,9 +50,21 @@ linguistics as a student.
 
 ### Supervision
 
-- I am currently co-supervising the following three PhD students at the University of Edinburgh:
-	- Takanobu Nakamura (Topic: Semantics of distributivity in Japanese; co-supervised with Rob Truswell and Bryan Pickel)
-	- Thomas Stephen (Topic: Compositional semantics of clausal complementation; co-supervised with Rob Truswell and Bryan Pickel)
-	- Esther Lam (Topic: On classifiers in Nung (Tai); co-supervised with Nik Gisborne and Bert Remijsen)
+- I have (co-)supervised the following students and RAs at the University of Edinburgh:
+<!-- ### Alumni -->
+
+	- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently postdoc at ILLC Amsterdam)
+	- Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
+	- Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)
+	- [Sophia Nauta](https://www.universiteitleiden.nl/medewerkers/sophia-nauta) (MECORE RA 2020-2021; currently PhD student at Leiden Linguistics)
+	- [Yingyu (Sue) Su](https://cn.linkedin.com/in/suyingyu/en) (MECORE RA 2020-2022; currently PhD student at USC)
+<!-- - Neng Wan (MSc 2022) -->
+	- [Ella Hannon](https://linguistics.ubc.ca/profile/ella-hannon/) (LiSU RA 2022; currently PhD student at UBC Linguistics)
+	- Victoria-Elliot Bush (LiSU Intern 2022; currently student at QMUL Linguistics)
+	- Bao Di (MSc 2021; currently at European Masters Program in 
+Language & Communication Technologies, Saarland University)
+	- [Jenny Wu](https://philosophy.ucla.edu/person/jenny-wu/) (MSc 2020; currently PhD student at UCLA Philosophy)
+	- Yunchong Huang (MSc 2020; currently MSc student at ILLC Amsterdam)
+
 - I have (co-)supervised more than 20 Undergraduate and Master-level dissertations at Leiden and Edinburgh. 
 
