@@ -47,13 +47,15 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
+- **January 2024**: Uegaki, Mucha, Imel \& Steinert-Threlkeld poster presentation "Deontic priority – converging evidence for a universal in modal semantics" at NELS 54 @ MIT. 
 - **January 2024**: Wataru's invited talk at University of Leipzig [Research Unit on Cyclic optimization](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization). 
+- **November 2024**: Wataru has received the [Shinmura Izuru Reserach Promotion Award](https://s-chozan.main.jp/?p=7731). 
 - **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at [SPE/OASIS](https://spe-uca.sciencesconf.org/). 
-- **Sept 2023**: We will give two presentations at [Sinn und Bedeutung 28 @ Bochum](https://www.ruhr-uni-bochum.de/sub28/index.html.en):
+- **Sept 2023**: We have given two presentations at [Sinn und Bedeutung 28 @ Bochum](https://www.ruhr-uni-bochum.de/sub28/index.html.en):
     - Qing, Roelofsen & Uegaki. "Predicates of inquisitive emotion and theories of question embedding" (talk)
     - Mucha, Amaechi, Whibley & Uegaki. "Future and the composition of modal meaning: the view from Igbo" (poster)
-- **August 2023**: Deniz Özyıldız and Ciyang Qing (MECORE) will teach an advanced course "Semantic properties and combinatorial restrictions of attitude predicates" at 
+<!-- - **August 2023**: Deniz Özyıldız and Ciyang Qing (MECORE) will teach an advanced course "Semantic properties and combinatorial restrictions of attitude predicates" at 
 [ESSLLI 2023 @ Ljubljana](https://2023.esslli.eu/).
 - **June 2023**: Mucha, Engels, Whibley and Uegaki talk 'Negative modality in Hausa, Thai and Kîîtharaka' at [TripleA](https://sites.google.com/view/triplea10). 
-- **June 2023**: Wataru's invited talk at [InqBnB4 @ IWCS 2023](https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/)
+- **June 2023**: Wataru's invited talk at [InqBnB4 @ IWCS 2023](https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/) -->
 
