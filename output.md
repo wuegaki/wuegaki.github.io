@@ -16,12 +16,13 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Monographs
 
-- **Uegaki, Wataru**. 2022. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)]
+- **Uegaki, Wataru**. 2023. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)]
 
 <img src="{{ site.baseurl }}/images/book.jpg" alt="Wataru's Springer Book cover" style="width: 200px;"/>
 
 #### Refereed articles in journals
 
+- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon \& Fred Whibley.\ accepted.\ Cross-linguistic dataset of force-flavor combinations in modal elements.\ \emph{Linguistic Variation}.
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
