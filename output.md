@@ -35,6 +35,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### Papers in conference proceedings, edited volumes and book reviews
 
 - Deniz Özyıldız & **Wataru Uegaki**. to appear. Two kinds of question-embedding strategies and veridicality alternations. _Proceedings of SALT 33_.
+-	Mucha, Anne, James Engels, Fred Whibley & **Wataru Uegaki**. to appear. Negative modality in Hausa, Thai and Kiitharaka. _Proceedings of TripleA_. 
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 31_. 
 - **Uegaki, Wataru**. 2023. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Maribel Romero and **Wataru Uegaki**. 2023. A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates. _Proceedings of the 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2023)_, Association for Computational Linguistics. [[URL](https://aclanthology.org/2023.sigtyp-1.7)]   
