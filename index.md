@@ -52,6 +52,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **April 2024**: Uegaki, Mucha, Engels, Hannon & Whibley "Cross-linguistic dataset of force-flavor combinations in modal elements" has been accepted for publication at _Linguistic Variation_. 
 - **January 2024**: Uegaki, Mucha, Imel & Steinert-Threlkeld poster presentation "Deontic priority – converging evidence for a universal in modal semantics" at NELS 54 @ MIT. 
 - **January 2024**: Wataru's invited talk at University of Leipzig [Research Unit on Cyclic optimization](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization).
+
 <!-- - **November 2023**: Anne Mucha's invited colloquium talk at Manchester Linguistics. 
 - **November 2023**: Ciyang Qing's invited colloquium talk at Konstanz Linguistics. 
 - **November 2023**: Wataru has received the [Shinmura Izuru Research Promotion Award](https://s-chozan.main.jp/?p=7731). 
