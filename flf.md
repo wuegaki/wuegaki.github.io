@@ -19,6 +19,7 @@ linguistics.
 ### Project members
 
 - Wataru Uegaki, Principal Investigator
+- [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow 
 - [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant 
 - [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), Research Assistant 
@@ -32,7 +33,7 @@ linguistics.
 - [Jakub Szymanik](https://jakubszymanik.com/) (Trento)
 - [Malte Zimmermann](https://www.ling.uni-potsdam.de/~zimmermann/) (Potsdam)
 
-### Outputs
+<!-- ### Outputs
 
 - Uegaki, Wataru, Anne Mucha, Nathaniel Imel, & Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
@@ -40,7 +41,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 - Uegaki, Wataru, Anne Mucha, James Engels & Fred Whibley. upcoming. Negative modals cross-linguistically. Talk at [Workshop on modality in underdescribed languages: Methods & insights](https://sites.google.com/view/modality-workshop2023/home), Humboldt-Universität zu Berlin. 
 - Maldonado, Mora, Jennifer Culbertson, & Wataru Uegaki, 2022. Learnability and constraints on the semantics of clause-embedding predicates. _Proceedings of
 Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zst5y)]
-- Uegaki, Wataru. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
+- Uegaki, Wataru. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461)  -->
 
 <!-- ### Project description
 
