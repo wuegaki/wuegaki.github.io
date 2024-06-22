@@ -6,11 +6,12 @@ permalink: /output
 
 ### Works in progress
 
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero, Wataru Uegaki. under review. 
+- Özyıldız, Deniz & Wataru Uegaki. under review. Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese. [[Preprint](https://lingbuzz.net/lingbuzz/008187)]
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under review. 
 When can non-veridical preferential attitude predicates take questions? [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
-- **Uegaki, Wataru**, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
+- Uegaki, Wataru, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
-- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. under revision. Challenges for the operationalization of focus-sensitivity in a cross-linguistic context. 
+- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Wataru Uegaki and Maribel Romero. under revision. Challenges for the operationalization of focus-sensitivity in a cross-linguistic context. 
 
 
 ### Published or accepted works
@@ -23,7 +24,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Refereed articles in journals
 
-- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. accepted. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_.
+- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. to appear. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. 
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
@@ -35,7 +36,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Papers in conference proceedings, edited volumes and book reviews
 
-- Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_.
+<!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
 - Mucha, Anne, Mary Amaechi, Fred Whibley & **Wataru Uegaki**. to appear. Future and the composition of modal meaning: the view from Igbo. _Proceedings of Sinn und Bedeutung 28_. [[Preprint DOI](https://doi.org/10.31234/osf.io/y7f84)]
 -	Mucha, Anne, James Engels, Fred Whibley & **Wataru Uegaki**. to appear. Negative modality in Hausa, Thai and Kiitharaka. _Proceedings of TripleA_. [[Preprint DOI](https://doi.org/10.31234/osf.io/zxe4d)]
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 31_. 

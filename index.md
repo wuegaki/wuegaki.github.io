@@ -47,12 +47,17 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
+- **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
+- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature three presentations by group members:
+    - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
+    - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
+    - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
+- **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
 - **June 2024**: [The MECORE closing workshop "Advances in the semantics of clause-embedding predicates: theories, cross-linguistic data, and experimentation"](https://wuegaki.ppls.ed.ac.uk/mecore/mecore-final-workshop/) @ Konstanz.
-- **June 2024**: The group will present in [SALC 9](https://www.ntnu.edu/web/langdevlab/salc9) workshop on Semantic Universals.
-- **April 2024**: Wataru will give a presentation at [the Workshop on Acquiring and Losing Knowledge](https://empiricalepistemology.stir.ac.uk/index.php/events/) as part of the UKRI Empirical Epistemology Network @ Stirling. 
-- **April 2024**: Uegaki, Mucha, Engels, Hannon & Whibley "Cross-linguistic dataset of force-flavor combinations in modal elements" has been accepted for publication at _Linguistic Variation_. 
-- **January 2024**: Uegaki, Mucha, Imel & Steinert-Threlkeld poster presentation "Deontic priority – converging evidence for a universal in modal semantics" at NELS 54 @ MIT. 
-- **January 2024**: Wataru's invited talk at University of Leipzig [Research Unit on Cyclic optimization](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization).
+- **June 2024**: The group presented in [SALC 9](https://www.ntnu.edu/web/langdevlab/salc9) workshop on Semantic Universals.
+- **March 2024**: New manuscript by the MECORE group: [When can non-veridical preferential attitude predicates take questions?](https://lingbuzz.net/lingbuzz/008113).
+
+
 
 <!-- - **November 2023**: Anne Mucha's invited colloquium talk at Manchester Linguistics. 
 - **November 2023**: Ciyang Qing's invited colloquium talk at Konstanz Linguistics. 
