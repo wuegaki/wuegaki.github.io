@@ -48,7 +48,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 # News (recent and upcoming talks, papers etc.)
 
 - **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
-- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature three presentations by group members:
+- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature four presentations by group members:
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
     - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
