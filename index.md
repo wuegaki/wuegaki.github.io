@@ -52,6 +52,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
     - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
+    - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
 - **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
 - **June 2024**: [The MECORE closing workshop "Advances in the semantics of clause-embedding predicates: theories, cross-linguistic data, and experimentation"](https://wuegaki.ppls.ed.ac.uk/mecore/mecore-final-workshop/) @ Konstanz.
 - **June 2024**: The group presented in [SALC 9](https://www.ntnu.edu/web/langdevlab/salc9) workshop on Semantic Universals.
