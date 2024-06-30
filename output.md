@@ -24,7 +24,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Refereed articles in journals
 
-- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. to appear. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. 
+- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. to appear. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. [[Preprint](https://osf.io/preprints/psyarxiv/hx84m)]
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
