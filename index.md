@@ -55,7 +55,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
     - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
     - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
-- **Sept 2024**: Wataru will give a talk at the workshop "The Future of Artificial Language Learning in Linguistics"[https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html]
+- **Sept 2024**: Wataru will give a talk at ]the workshop "The Future of Artificial Language Learning in Linguistics"](ttps://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html)
 - **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
 
 
