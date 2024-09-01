@@ -48,16 +48,16 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 # News (recent and upcoming talks, papers etc.)
 
 - **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
+- **Nov 2024**: Wataru will give an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
+
+- **Sept 2024**: New revised manuscript from the MECORE team: "Challenges for the operationalization of focus-sensitivity in a cross-linguistic context". [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
 - **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature four presentations by group members:
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
     - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
     - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
+- **Sept 2024**: Wataru will give a talk at the workshop "The Future of Artificial Language Learning in Linguistics"[https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html]
 - **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
-- **June 2024**: [The MECORE closing workshop "Advances in the semantics of clause-embedding predicates: theories, cross-linguistic data, and experimentation"](https://wuegaki.ppls.ed.ac.uk/mecore/mecore-final-workshop/) @ Konstanz.
-- **June 2024**: The group presented in [SALC 9](https://www.ntnu.edu/web/langdevlab/salc9) workshop on Semantic Universals.
-- **March 2024**: New manuscript by the MECORE group: [When can non-veridical preferential attitude predicates take questions?](https://lingbuzz.net/lingbuzz/008113).
-
 
 
 <!-- - **November 2023**: Anne Mucha's invited colloquium talk at Manchester Linguistics. 
