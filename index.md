@@ -49,7 +49,6 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 - **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
 - **Nov 2024**: Wataru will give an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
-
 - **Sept 2024**: New revised manuscript from the MECORE team: "Challenges for the operationalization of focus-sensitivity in a cross-linguistic context". [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
 - **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature four presentations by group members:
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
