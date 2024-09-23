@@ -50,12 +50,12 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
 - **Nov 2024**: Wataru will give an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
 - **Sept 2024**: New revised manuscript from the MECORE team: ["Challenges for the operationalization of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004).
-- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) will feature four presentations by group members:
+- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) featured four presentations by group members:
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
     - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
     - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
-- **Sept 2024**: Wataru will give a talk at the workshop ["The Future of Artificial Language Learning in Linguistics"](https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html)
+- **Sept 2024**: Wataru gave a talk at the workshop ["The Future of Artificial Language Learning in Linguistics"](https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html)
 - **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
 
 
