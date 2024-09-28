@@ -19,7 +19,7 @@ Currently, the lab is running the following two research projects:
 
 ### Members
 
-<img src="{{ site.baseurl }}/images/Arthurs.JPG" alt="some lab members on Arthur's Seat" style="width: 600px;"/>
+<!-- <img src="{{ site.baseurl }}/images/Arthurs.JPG" alt="some lab members on Arthur's Seat" style="width: 600px;"/> -->
 
 - Wataru Uegaki, Principal Investigator
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
