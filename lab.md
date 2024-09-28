@@ -24,8 +24,8 @@ Currently, the lab is running the following two research projects:
 - Wataru Uegaki, Principal Investigator
 - [Anne Mucha](https://scholar.google.com/citations?user=R4g8pBAAAAAJ&hl=en&oi=ao), Postdoctoral Fellow (LiSU)
 - [Ciyang Qing](https://sites.google.com/site/qciyang/), Postdoctoral Fellow (MECORE)
-- [James Engels](https://uk.linkedin.com/in/james-engels), Research Assistant (LiSU)
-- [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student
+- [James Engels](https://uk.linkedin.com/in/james-engels), PhD student 
+<!-- - [Esther Lam](https://www.ed.ac.uk/profile/esther-lam), PhD student -->
 - [Fred Whibley](https://uk.linkedin.com/in/fred-whibley-ab0310192), PhD student
 - Keyu Dong, Undergraduate intern
 - [Kuromitsuto](https://twitter.com/wataruu/status/1668310596918591490), Research Distractor
@@ -47,6 +47,7 @@ Currently, the lab is running the following two research projects:
 ### Alumni
 
 - [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently postdoc at ILLC Amsterdam)
+- [Esther Lam](https://sites.google.com/view/estherlam/home) (PhD 2024; Currently postdoc at Edinburgh Linguistics within Caroline Heycock and Jutta Hartmann's AHRC/DFG project)
 - Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
 - Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)
 - [Sophia Nauta](https://www.universiteitleiden.nl/medewerkers/sophia-nauta) (MECORE RA 2020-2021; currently PhD student at Leiden Linguistics)
