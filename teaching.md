@@ -53,7 +53,12 @@ linguistics as a student.
 - I have (co-)supervised the following students and RAs at the University of Edinburgh:
 <!-- ### Alumni -->
 
-	- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently postdoc at ILLC Amsterdam)
+	- [Esther Lam](https://sites.google.com/view/estherlam/home) (PhD 2024; Currently postdoc at Edinburgh within Caroline Heycock and Jutta Hartmann's AHRC/DFG project)
+		- PhD thesis: [Meaning of classifier-noun phrases in Nung (Tai, Vietnam)](https://era.ed.ac.uk/handle/1842/42172)
+	- Thomas Stephen (PhD 2024)
+		- PhD thesis: [Semantics of nominal and clausal embedding: how (not) to embed a clause and why](https://era.ed.ac.uk/handle/1842/41849)
+	- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2023; Currently postdoc at ILLC Amsterdam)
+		- PhD thesis: [Distribution of distributivity in syntax and discourse](https://era.ed.ac.uk/handle/1842/40456)
 	- Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
 	- Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)
 	- [Sophia Nauta](https://www.universiteitleiden.nl/medewerkers/sophia-nauta) (MECORE RA 2020-2021; currently PhD student at Leiden Linguistics)
