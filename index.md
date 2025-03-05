@@ -54,7 +54,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 - **May 2025**: Talk by the MECORE members (Qing et al.) "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
 - **May 2025**: Wataru's talk at [Mayfest @ Maryland](https://linguistics.umd.edu/mayfest2025)
 - **April 2025**: [Edinburgh Meaning Science Lab at Edinburgh Science Festival](https://www.edinburghscience.co.uk/event/lets-grow-a-language/)!
-- **Feb 2025**: New revised manuscript by MECORE members "When can non-veridical preferential attitude predicates take questions?"
+- **Feb 2025**: New revised manuscript by MECORE members ["When can non-veridical preferential attitude predicates take questions?"](https://ling.auf.net/lingbuzz/008113)
 - **Feb 2025**: [Alex McLean](https://slab.org/) and Wataru have received an UKRI Development Network Crucible fund to explore the
 boundaries between natural languages and programming languages. 
 - **Dec 2024**: Wataru's invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
