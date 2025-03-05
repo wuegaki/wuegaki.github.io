@@ -50,8 +50,8 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **August 2025**: Wataru will have a Fringe show !?!
-- **May 2025**: Talk by the MECORE members "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
+- **August 2025**: Wataru will have a Fringe show!?!
+- **May 2025**: Talk by the MECORE members (Qing et al.) "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
 - **May 2025**: Wataru's talk at [Mayfest @ Maryland](https://linguistics.umd.edu/mayfest2025)
 - **April 2025**: [Edinburgh Meaning Science Lab at Edinburgh Science Festival](https://www.edinburghscience.co.uk/event/lets-grow-a-language/)!
 - **Feb 2025**: New revised manuscript by MECORE members "When can non-veridical preferential attitude predicates take questions?"
