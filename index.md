@@ -50,9 +50,16 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **Dec 2024**: Wataru will give an invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
-- **Nov 2024**: Wataru will give an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
-- **Sept 2024**: New revised manuscript from the MECORE team: ["Challenges for the operationalization of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004).
+- **August 2025**: Wataru will have a Fringe show !?!
+- **May 2025**: Talk by the MECORE members "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
+- **May 2025**: Wataru's talk at [Mayfest @ Maryland](https://linguistics.umd.edu/mayfest2025)
+- **April 2025**: [Edinburgh Meaning Science Lab at Edinburgh Science Festival](https://www.edinburghscience.co.uk/event/lets-grow-a-language/)!
+- **Feb 2025**: New revised manuscript by MECORE members "When can non-veridical preferential attitude predicates take questions?"
+- **Feb 2025**: [Alex McLean](https://slab.org/) and Wataru have received an UKRI Development Network Crucible fund to explore the
+boundaries between natural languages and programming languages. 
+- **Dec 2024**: Wataru's invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
+- **Nov 2024**: Wataru's an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
+<!-- - **Sept 2024**: New revised manuscript from the MECORE team: ["Challenges for the operationalization of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004).
 - **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) featured four presentations by group members:
     - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
     - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
@@ -60,7 +67,7 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
     - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
 - **Sept 2024**: Wataru gave a talk at the workshop ["The Future of Artificial Language Learning in Linguistics"](https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html)
 - **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
-
+ -->
 
 <!-- - **November 2023**: Anne Mucha's invited colloquium talk at Manchester Linguistics. 
 - **November 2023**: Ciyang Qing's invited colloquium talk at Konstanz Linguistics. 
