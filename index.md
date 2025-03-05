@@ -59,26 +59,4 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 boundaries between natural languages and programming languages. 
 - **Dec 2024**: Wataru's invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
 - **Nov 2024**: Wataru's an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/). 
-<!-- - **Sept 2024**: New revised manuscript from the MECORE team: ["Challenges for the operationalization of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004).
-- **Sept 2024**: [Sinn und Bedeutung 2024 @ Sicily](https://sub29.unime.it/) featured four presentations by group members:
-    - Mucha, Amaechi, Jantarungsee & Uegaki. "Disjunction with additives" (talk)
-    - Qing & Uegaki. "Semantic triviality leads to ungrammaticality through iterated learning" (poster)
-    - Whibley. "Defeasible Telicity in English Performance Predicates" (poster)
-    - Dong. "Evidential as Positive Polarity Item" (poster, Evidentials Workshop)
-- **Sept 2024**: Wataru gave a talk at the workshop ["The Future of Artificial Language Learning in Linguistics"](https://www.syncog.ppls.ed.ac.uk/FutureOfALL/site/index.html)
-- **June 2024**: New manuscript by Deniz Özyıldız & Wataru: [Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese](https://lingbuzz.net/lingbuzz/008187)
- -->
-
-<!-- - **November 2023**: Anne Mucha's invited colloquium talk at Manchester Linguistics. 
-- **November 2023**: Ciyang Qing's invited colloquium talk at Konstanz Linguistics. 
-- **November 2023**: Wataru has received the [Shinmura Izuru Research Promotion Award](https://s-chozan.main.jp/?p=7731). 
-- **October 2023**: Wataru's invited talk at the Special Session on Clausal Complements at [SPE/OASIS](https://spe-uca.sciencesconf.org/). 
-- **Sept 2023**: We have given two presentations at [Sinn und Bedeutung 28 @ Bochum](https://www.ruhr-uni-bochum.de/sub28/index.html.en):
-    - Qing, Roelofsen & Uegaki. "Predicates of inquisitive emotion and theories of question embedding" (talk)
-    - Mucha, Amaechi, Whibley & Uegaki. "Future and the composition of modal meaning: the view from Igbo" (poster)
- -->
-<!-- - **August 2023**: Deniz Özyıldız and Ciyang Qing (MECORE) will teach an advanced course "Semantic properties and combinatorial restrictions of attitude predicates" at 
-[ESSLLI 2023 @ Ljubljana](https://2023.esslli.eu/).
-- **June 2023**: Mucha, Engels, Whibley and Uegaki talk 'Negative modality in Hausa, Thai and Kîîtharaka' at [TripleA](https://sites.google.com/view/triplea10). 
-- **June 2023**: Wataru's invited talk at [InqBnB4 @ IWCS 2023](https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/) -->
 
