@@ -46,7 +46,7 @@ Currently, the lab is running the following two research projects:
 
 ### Alumni
 
-- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently postdoc at ILLC Amsterdam)
+- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2022; Currently Humboldt fellow at ZAS Berlin)
 - [Esther Lam](https://sites.google.com/view/estherlam/home) (PhD 2024; Currently postdoc at Edinburgh Linguistics within Caroline Heycock and Jutta Hartmann's AHRC/DFG project)
 - Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
 - Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)
