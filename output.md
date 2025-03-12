@@ -38,10 +38,10 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### Papers in conference proceedings, edited volumes and book reviews
 
 <!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 31_. 
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. 
 - Mucha, Anne, Mary Amaechi, Fred Whibley & **Wataru Uegaki**. 2024. Future and the composition of modal meaning: the view from Igbo. _Proceedings of Sinn und Bedeutung 28_. [[DOI](https://doi.org/10.18148/sub/2024.v28.1151)]
 -	Mucha, Anne, James Engels, Fred Whibley & **Wataru Uegaki**. 2024. Negative modality in Hausa, Thai and Kiitharaka. _Proceedings of TripleA_. [[DOI](https://doi.org/10.25932/publishup-66261)]
-- Deniz Özyıldız & **Wataru Uegaki**. 2023. Two kinds of question-embedding strategies and veridicality alternations. _Proceedings of SALT 33_. [[DOI](https://doi.org/10.3765/1rcmh783XC)]
+- Deniz Özyıldız & **Wataru Uegaki**. 2023. Two question-embedding strategies and answer-orientedness. _Proceedings of SALT 33_. [[DOI](https://doi.org/10.3765/1rcmh783)]
 - **Uegaki, Wataru**. 2023. The _doubt-whether_ puzzle. In Łukasz Jędrzejowski and Carla Umbach, eds. _Non-interrogative subordinate wh-clauses_. OUP. [[Published version](https://doi.org/10.1093/oso/9780192844620.003.0015
 )] [[Preprint DOI](https://doi.org/10.31234/osf.io/7ryzu)]
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Maribel Romero and **Wataru Uegaki**. 2023. A Crosslinguistic Database for Combinatorial and Semantic Properties of Attitude Predicates. _Proceedings of the 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP 2023)_, Association for Computational Linguistics. [[URL](https://aclanthology.org/2023.sigtyp-1.7)]   
