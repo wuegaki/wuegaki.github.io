@@ -38,6 +38,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### Papers in conference proceedings, edited volumes and book reviews
 
 <!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
+- Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. to appear. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. 
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. 
 - Mucha, Anne, Mary Amaechi, Fred Whibley & **Wataru Uegaki**. 2024. Future and the composition of modal meaning: the view from Igbo. _Proceedings of Sinn und Bedeutung 28_. [[DOI](https://doi.org/10.18148/sub/2024.v28.1151)]
 -	Mucha, Anne, James Engels, Fred Whibley & **Wataru Uegaki**. 2024. Negative modality in Hausa, Thai and Kiitharaka. _Proceedings of TripleA_. [[DOI](https://doi.org/10.25932/publishup-66261)]
