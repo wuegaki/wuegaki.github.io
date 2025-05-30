@@ -58,10 +58,6 @@ Flavors of German necessity modals: experimental evidence" at [Sinn und Bedeutun
 Text Data" @ [SCiL 2025](https://wellesley-easel-lab.github.io/SCiL2025/index.html) ([Carslaw](https://people.inf.ed.ac.uk/Iona_Carslaw.html), [Milton](https://people.inf.ed.ac.uk/Sivan_Milton.html), [Navarre](https://www.bramleylab.ppls.ed.ac.uk/member/nicolas/), Qing & Uegaki)
 - **May 2025**: Talk by the MECORE members (Qing et al.) "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
 - **May 2025**: Wataru's talk at [Mayfest @ Maryland](https://linguistics.umd.edu/mayfest2025)
-<!-- - **April 2025**: [Edinburgh Meaning Science Lab at Edinburgh Science Festival](https://www.edinburghscience.co.uk/event/lets-grow-a-language/)!
-- **Feb 2025**: New revised manuscript by MECORE members ["When can non-veridical preferential attitude predicates take questions?"](https://ling.auf.net/lingbuzz/008113)
-- **Feb 2025**: [Alex McLean](https://slab.org/) and Wataru have received an UKRI Development Network Crucible fund to explore the
-boundaries between natural languages and prog3ramming languages. 
-- **Dec 2024**: Wataru's invited talk at [Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)
-- **Nov 2024**: Wataru's an invited talk at [The New York Philosophy of Language Workshop](https://nylanguageworkshop.tumblr.com/).  -->
+
+
 
