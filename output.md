@@ -6,6 +6,8 @@ permalink: /output
 
 ### Works in reviewing cycles
 
+- Uegaki, Wataru. under review. Modality and attitude verbs.\ 
+A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
 - Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Wataru Uegaki and Maribel Romero. under review. Challenges for the operationalization of focus-sensitivity in a cross-linguistic context. [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
 - Özyıldız, Deniz & Wataru Uegaki. under review. Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese. [[Preprint](https://lingbuzz.net/lingbuzz/008187)]
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under revision. 
