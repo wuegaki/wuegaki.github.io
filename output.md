@@ -42,7 +42,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 <!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
 - Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. to appear. Automatic extraction of clausal embedding based on large-scale English
 text data. _Proceedings of The Society for Computation in Linguistics_.
-- Qing, Ciyang & **Wataru Uegaki**. to appear. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[Prepring](https://ling.auf.net/lingbuzz/009010)]
+- Qing, Ciyang & **Wataru Uegaki**. to appear. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[Preprint](https://ling.auf.net/lingbuzz/009010)]
 - Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. to appear. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. 
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. 
 - Mucha, Anne, Mary Amaechi, Fred Whibley & **Wataru Uegaki**. 2024. Future and the composition of modal meaning: the view from Igbo. _Proceedings of Sinn und Bedeutung 28_. [[DOI](https://doi.org/10.18148/sub/2024.v28.1151)]
