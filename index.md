@@ -50,14 +50,17 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-
+- **Nov 2025**: Wataru's colloquium talk at UConn Linguistics.
+- **Oct 2025**: Özyıldız et al. ["Operationalizing of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004) is accepted with minor revisions by _Natural Language Semantics_. 
+- **Oct 2025**: Two papers ([Mucha et al.](https://doi.org/10.18148/sub/2024.v29.1263) and [Qing & Uegaki](https://doi.org/10.18148/sub/2024.v29.1279)) published in _Proceedings of Sinn und Bedeutung 29_. 
 - **Sept 2025**: Poster presentation "	
 Flavors of German necessity modals: experimental evidence" at [Sinn und Bedeutung 30](https://vicom.info/sub30/) (Mucha, Uegaki & Sorace)
 - **August 2025**: Come to Wataru's Fringe comedy show! Tickets available [here]( https://www.edfringe.com/tickets/whats-on/the-provocateurs-a-600-year-old-fart-joke-talking-to-machines)
-- **July 2025**: Poster presentation "Automatic Extraction of Clausal Embedding Based on Large-Scale English
+
+<!-- - **July 2025**: Poster presentation "Automatic Extraction of Clausal Embedding Based on Large-Scale English
 Text Data" @ [SCiL 2025](https://wellesley-easel-lab.github.io/SCiL2025/index.html) ([Carslaw](https://people.inf.ed.ac.uk/Iona_Carslaw.html), [Milton](https://people.inf.ed.ac.uk/Sivan_Milton.html), [Navarre](https://www.bramleylab.ppls.ed.ac.uk/member/nicolas/), Qing & Uegaki)
 - **May 2025**: Talk by the MECORE members (Qing et al.) "Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?" at [SALT @ Harvard](https://saltconf.github.io/salt35/)
 - **May 2025**: Wataru's talk at [Mayfest @ Maryland](https://linguistics.umd.edu/mayfest2025)
-
+ -->
 
 
