@@ -8,14 +8,11 @@ permalink: /output
 
 - Uegaki, Wataru. under review. Modality and attitude verbs. 
 A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
-- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, Wataru Uegaki and Maribel Romero. under review. Challenges for the operationalization of focus-sensitivity in a cross-linguistic context. [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
 - Özyıldız, Deniz & Wataru Uegaki. under review. Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese. [[Preprint](https://lingbuzz.net/lingbuzz/008187)]
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under revision. 
 When can non-veridical preferential attitude predicates take questions? [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - Uegaki, Wataru, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
-
-
 
 ### Published or accepted works
 
@@ -27,6 +24,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Refereed articles in journals
 
+- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. accepted with minor revisions. Operationalizing of focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
 - **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. 2024. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. [[DOI](https://doi.org/10.1075/lv.23057.ueg)] (Open access)
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
@@ -40,11 +38,11 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### Papers in conference proceedings, edited volumes and book reviews
 
 <!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
-- Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. to appear. Automatic extraction of clausal embedding based on large-scale English
-text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.48550/arXiv.2506.14064)]
-- Qing, Ciyang & **Wataru Uegaki**. to appear. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_.
-- Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. to appear. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. 
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. 
+- Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. 2025. Automatic extraction of clausal embedding based on large-scale English
+text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.7275/scil.3151)]
+- Qing, Ciyang & **Wataru Uegaki**. 2025. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1279)]
+- Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. 2025. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1263)]
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. 2025. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. [[PDF](https://www.lingref.com/cpp/wccfl/41/paper3783.pdf)]
 - Mucha, Anne, Mary Amaechi, Fred Whibley & **Wataru Uegaki**. 2024. Future and the composition of modal meaning: the view from Igbo. _Proceedings of Sinn und Bedeutung 28_. [[DOI](https://doi.org/10.18148/sub/2024.v28.1151)]
 -	Mucha, Anne, James Engels, Fred Whibley & **Wataru Uegaki**. 2024. Negative modality in Hausa, Thai and Kiitharaka. _Proceedings of TripleA_. [[DOI](https://doi.org/10.25932/publishup-66261)]
 - Deniz Özyıldız & **Wataru Uegaki**. 2023. Two question-embedding strategies and answer-orientedness. _Proceedings of SALT 33_. [[DOI](https://doi.org/10.3765/1rcmh783)]
