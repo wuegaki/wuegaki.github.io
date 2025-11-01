@@ -24,8 +24,8 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Refereed articles in journals
 
-- Özyıldız, Deniz, Ciyang Qing, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. accepted with minor revisions. Operationalizing of focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[Preprint](https://lingbuzz.net/lingbuzz/007004)]
-- **Uegaki, Wataru**, Anne Mucha, James Engels, Ella Hannon & Fred Whibley. 2024. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. [[DOI](https://doi.org/10.1075/lv.23057.ueg)] (Open access)
+- {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. accepted. Operationalizing of focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[Preprint](https://lingbuzz.net/lingbuzz/007004)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
+- {**Uegaki, Wataru**, Anne Mucha}, James Engels, Ella Hannon & Fred Whibley. 2024. Cross-linguistic dataset of force-flavor combinations in modal elements. _Linguistic Variation_. [[DOI](https://doi.org/10.1075/lv.23057.ueg)] (Open access) (Uegaki and Mucha are the joint first authors; we prefer the paper to be cited as Uegaki & Mucha et al.)
 - **Uegaki, Wataru**. 2022. The informativeness/complexity trade-off in the domain of Boolean connectives. _Linguistic Inquiry_ [[DOI]](https://doi.org/10.1162/ling_a_00461) 
 - **Uegaki, Wataru**. 2021. The existential/uniqueness presupposition of _wh_-complements projects from the answers. *Linguistics and Philosophy* 44: 911–951. [[DOI](https://doi.org/10.1007/s10988-020-09309-4)] 
 - Cremers, Alexandre, Floris Roelofsen and **Wataru Uegaki**. 2019. Distributive ignorance inferences with *wonder* and *believe*. *Semantics & Pragmatics* 12. [[DOI](http://dx.doi.org/10.3765/sp.12.5)] (Open access)
