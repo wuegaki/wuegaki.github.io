@@ -16,7 +16,7 @@ I have served as the (co-)PI of the following two collaborative research project
 
 
 
-I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. 
+I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. I am an elected fellow of [the Young Academy of Europe](https://yacadeuro.org/). 
 
 My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
 
