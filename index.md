@@ -9,7 +9,7 @@ I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (≈ Assoc
 <img align="left" src="./images/wataru-small.jpg" alt="Wataru's photo; Credit: Natasha Korotkova">
 
 I have served as the (co-)PI of the following two collaborative research projects: 
-- UKRI Future Leaders Fellowship: **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2025)
+- UKRI Future Leaders Fellowship: **[Logic in Semantic Universals](http://www.wataruuegaki.com/flf/)** (2022-2029)
 - AHRC/DFG project: **[MECORE: A cross-linguistic investigation of meaning-driven combinatorial restrictions in clausal embedding](https://wuegaki.ppls.ed.ac.uk/mecore/)** (2021-2024)
 <!-- - NWO international collaboration project **ModUni: Searching for semantic universals in the modal and attitudinal domains** (2018-2021) -->
 
