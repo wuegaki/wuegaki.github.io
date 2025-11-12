@@ -51,7 +51,8 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 # News (recent and upcoming talks, papers etc.)
 
 - **Nov 2025**: Wataru's colloquium talk at UConn Linguistics.
-- **Nov 2025**: Özyıldız & Qing et al. ["Operationalizing of focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004) is accepted by _Natural Language Semantics_. 
+- **Nov 2025**: Wataru has been elected as a fellow of [the Young Academy of Europe](https://yacadeuro.org/).
+- **Nov 2025**: Özyıldız & Qing et al. ["Operationalizing focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004) is accepted by _Natural Language Semantics_. 
 - **Oct 2025**: Two papers ([Mucha et al.](https://doi.org/10.18148/sub/2024.v29.1263) and [Qing & Uegaki](https://doi.org/10.18148/sub/2024.v29.1279)) published in _Proceedings of Sinn und Bedeutung 29_. 
 - **Sept 2025**: Poster presentation "	
 Flavors of German necessity modals: experimental evidence" at [Sinn und Bedeutung 30](https://vicom.info/sub30/) (Mucha, Uegaki & Sorace)
