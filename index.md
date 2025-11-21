@@ -18,7 +18,7 @@ I have served as the (co-)PI of the following two collaborative research project
 
 I completed my PhD at [MIT Linguistics](http://web.mit.edu/linguistics/) in 2015, and was previously at Leiden University. I am an elected fellow of [the Young Academy of Europe](https://yacadeuro.org/). 
 
-My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). 
+My profiles can also be found on [the University of Edinburgh website](https://www.ed.ac.uk/profile/wataru-uegaki) and [Google scholar](https://scholar.google.co.jp/citations?user=PHs9XX8AAAAJ). You can follow me on [letterboxd](https://letterboxd.com/wataruu/) and [Bluesky](https://bsky.app/profile/wataruu.bsky.social).
 
 My pronouns are he/him. My first name _Wataru_ \[wataɾɯ\] is [unaccented](https://www.coelang.tufs.ac.jp/ja/en/pmod/practical/01-08-01.php#:~:text=The%20normative%20Japanese%20accent%20can,fall%20drastically%20in%20unaccented%20words.) while my last name _Uegaki_ \[ɯegaki̥\] has an accent on the second [mora](http://glottopedia.org/index.php/Mora) \[e\], but people typically pronounce them with a stress on the penultimate syllable in English-speaking contexts (and that is fine). 
 
