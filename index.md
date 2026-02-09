@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (≈ Associate Professor) and [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). Photo credit: [Natasha Korotkova](https://natasha-korotkova.github.io/).
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (≈ Associate Professor) and [UKRI Future Leaders Fellow](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/) at University of Edinburgh in the [Department of Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) within the [School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls). _Photo credit: [Natasha Korotkova](https://natasha-korotkova.github.io/)_
 
 
 <img align="left" src="./images/wataru-small.jpg" alt="Wataru's photo; Credit: Natasha Korotkova">
