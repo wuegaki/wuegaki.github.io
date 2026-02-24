@@ -4,6 +4,8 @@ title: Output
 permalink: /output
 ---
 
+<!-- The following list categorizes Uegaki's publications into topics. See his CV  -->
+
 ### Works in reviewing cycles
 
 - Uegaki, Wataru. under review. Modality and attitude verbs. 
@@ -18,7 +20,8 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Monographs
 
-- **Uegaki, Wataru**. 2023. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)]
+- **Uegaki, Wataru**. 2023. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. 
+<!-- [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)] -->
 
 <img src="{{ site.baseurl }}/images/book.jpg" alt="Wataru's Springer Book cover" style="width: 200px;"/>
 
@@ -75,7 +78,8 @@ Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https:/
 
 ### PhD dissertation
 
-- **Uegaki, Wataru**. 2015. *Interpreting questions under attitudes*, PhD dissertation, Massachusetts Institute of Technology. [[DSpace link](http://hdl.handle.net/1721.1/99318)]
+- **Uegaki, Wataru**. 2015. *Interpreting questions under attitudes*, PhD dissertation, Massachusetts Institute of Technology. 
+<!-- [[DSpace link](http://hdl.handle.net/1721.1/99318)] -->
 
 ### Other manuscripts (available upon request)
 
