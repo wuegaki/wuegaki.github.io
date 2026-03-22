@@ -4,7 +4,7 @@ title: Datasets
 permalink: /datasets
 ---
 
-We have currently published the following linguistic datasets. 
+We have currently published the following linguistic datasets. Please refer to the associated publications for their details. 
 
 |                                       **Name**                                       |            **Empirical Domain**           | **Sample Languages** |     **Data source**     |                                                **Publication**                                                |
 |==================================================================================|=============================|==================|=====================|===========================================================================================================|
