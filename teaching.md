@@ -19,25 +19,23 @@ I particularly enjoy teaching introductory linguistics courses at the
 undergraduate level, as it is where I first encountered the excitement of
 linguistics as a student. 
 
-### Current and upcoming courses (at Edinburgh)
+<!-- ### Current and upcoming courses (at Edinburgh)
 
 - Autumn 2021: 
 	- Course organizer, 'Semantic Theory' (upper-level undergraduate; MSc)
 	- Contributor, 'Pragmatics' (upper-level undergraduate; MSc)
-
+ -->
 ### Past courses 
 
 - **At University of Edinburgh**
-	- Spring 2020: Semantics block (2 weeks) of 'Linguistics and English Language 1B' (1st-year undergraduate)
-	- Spring 2020: 'Current Issues in Semantics and Pragmatics' (Upper-level undergraduate/MSc; co-taught with Rob Truswell)
-	- Fall 2019: Course organiser, 'Introduction to Semantics and Pragmatics' (MSc; Edinburgh)
-	- Autumn 2021
-    	- 'Guided Research in Linguistics A: cross-linguistic variation and universal in semantics' (upper-level undergraduate; MSc)
-   		- Semantics block (2 weeks) of 'Linguistics and English Language 2A' (2nd-year undergraduate)
-    	- Contributor, 'Pragmatics' (upper-level undergraduate; MSc)
-	- Spring 2021:
-    	- Course organiser, 'Linguistics and English Language 1B' (1st-year undergraduate)
-    	- Contributor, 'Syntax: Theory and Practice' (upper-level undergraduate; MSc)
+	- Semantics block (2 weeks) of 'Linguistics and English Language 1B' (1st-year undergraduate)
+	- 'Current Issues in Semantics and Pragmatics' (Upper-level undergraduate/MSc; co-taught with Rob Truswell)
+	- Course organiser, 'Introduction to Semantics and Pragmatics' (MSc; Edinburgh)
+	- 'Guided Research in Linguistics A: cross-linguistic variation and universal in semantics' (upper-level undergraduate; MSc)
+   	- Semantics block (2 weeks) of 'Linguistics and English Language 2A' (2nd-year undergraduate)
+    - Co-instructor, 'Pragmatics' (upper-level undergraduate; MSc)
+	- Course organiser, 'Linguistics and English Language 1B' (1st-year undergraduate)
+    - Co-instructor, 'Syntax: Theory and Practice' (upper-level undergraduate; MSc)
 
 - **At Leiden University**
 	- Fall 2018: 'Semantics: Current issues' (MA; LUCL)
@@ -53,11 +51,12 @@ linguistics as a student.
 - I have (co-)supervised the following students and RAs at the University of Edinburgh:
 <!-- ### Alumni -->
 
+	- Zack Situ (PhD 2026)
 	- [Esther Lam](https://sites.google.com/view/estherlam/home) (PhD 2024; Currently postdoc at Edinburgh within Caroline Heycock and Jutta Hartmann's AHRC/DFG project)
 		- PhD thesis: [Meaning of classifier-noun phrases in Nung (Tai, Vietnam)](https://era.ed.ac.uk/handle/1842/42172)
-	- Thomas Stephen (PhD 2024)
+	- Thomas Stephen (PhD 2024; Currently Lecturer at Trinity College Dublin)
 		- PhD thesis: [Semantics of nominal and clausal embedding: how (not) to embed a clause and why](https://era.ed.ac.uk/handle/1842/41849)
-	- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2023; Currently postdoc at ILLC Amsterdam)
+	- [Takanobu Nakamura](https://takanobunakamura.github.io/) (PhD 2023; Currently Humboldt postdoc fellow at ZAS Berlin)
 		- PhD thesis: [Distribution of distributivity in syntax and discourse](https://era.ed.ac.uk/handle/1842/40456)
 	- Tim Jantarungsee (MScR 2023; Currently PhD student at UCL Linguistics)
 	- Mingyang Bian (MSc 2022; Currently PhD student at UPenn Linguistics)

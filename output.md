@@ -19,10 +19,10 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### 2026
 
 - {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. to appear. Operationalizing focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[DOI](https://doi.org/10.1007/s11050-025-09243-w)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
-- Mucha, Anne, Ciyang Qing, \& **Wataru Uegaki**. to appear. MultiCoS: A Multilingual Dataset of Connective Semantics with
-Context–Sentence Compatibility. \emph{Proceedings of Language Resources and Evaluation Conference (LREC)}. 
-- Qing, Ciyan, Deniz Özyıldız, **Wataru Uegaki**, \& Maribel Romero. to appear. Wondering hopefully/fearfully: how do desires and inquisitive
-attitudes interact? \emph{Proceedings of Semantics and Linguistic Theory (SALT) 35}. 
+- Mucha, Anne, Ciyang Qing, & **Wataru Uegaki**. to appear. MultiCoS: A Multilingual Dataset of Connective Semantics with
+Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluation Conference (LREC)_. 
+- Qing, Ciyan, Deniz Özyıldız, **Wataru Uegaki**, & Maribel Romero. to appear. Wondering hopefully/fearfully: how do desires and inquisitive
+attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. 
 
 #### 2025
 
@@ -95,9 +95,9 @@ Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https:/
 
 <!-- [.](https://ling.auf.net/lingbuzz/004979/current.pdf?_s=yikkH4TlfXn3sH39) [.](https://ling.auf.net/lingbuzz/005101/current.pdf?_s=2oE3y-rIrxYtAfi2) [.](https://ling.auf.net/lingbuzz/004994/current.pdf?_s=GYWoYnU3vB3dD3Hf) [.](https://semanticsarchive.net/Archive/WJmOGE5M/paper.pdf) [.](https://semanticsarchive.net/Archive/jc5NmIxN/Question%20Embedding) -->
 
-<!-- 
 
-<!-- The following list categorizes Uegaki's publications into topics. See his CV  -->
+
+<!-- 
 
 ### Works in reviewing cycles
 
@@ -114,7 +114,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 #### Monographs
 
 - **Uegaki, Wataru**. 2023. *Question orientedness and the semantics of clausal complementation*. Studies in Linguistics and Philosophy series, Springer. 
-<!-- [[link](https://link.springer.com/book/10.1007/978-3-031-15940-4)] -->
+
 
 <img src="{{ site.baseurl }}/images/book.jpg" alt="Wataru's Springer Book cover" style="width: 200px;"/>
 
@@ -133,7 +133,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### Papers in conference proceedings, edited volumes and book reviews
 
-<!-- - Qing, Ciyang, Floris Roelofsen & **Wataru Uegaki**. to appear. Predicates of inquisitive emotion and theories of question embedding. _Proceedings of Sinn und Bedeutung 28_. -->
+
 - Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. 2025. Automatic extraction of clausal embedding based on large-scale English
 text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.7275/scil.3151)]
 - Qing, Ciyang & **Wataru Uegaki**. 2025. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1279)]
@@ -165,14 +165,11 @@ Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https:/
 - Kubota, Yusuke and **Wataru Uegaki**. 2009. Nothing else for something else: a variable-free account. *Proceedings of SALT 19*. [[DOI](http://dx.doi.org/10.3765/salt.v19i0.2527)]
 - Kubota, Yusuke and **Wataru Uegaki**. 2009. Continuation-based semantics for Conventional Implicatures: The case of Japanese benefactives. *Proceedings of SALT 19*. [[DOI](http://dx.doi.org/10.3765/salt.v19i0.2522)]
 
-<!-- ### Papers in edited volumes -->
 
-<!-- ### Refereed articles in books  -->
 
 ### PhD dissertation
 
 - **Uegaki, Wataru**. 2015. *Interpreting questions under attitudes*, PhD dissertation, Massachusetts Institute of Technology. 
-<!-- [[DSpace link](http://hdl.handle.net/1721.1/99318)] -->
 
 ### Other manuscripts (available upon request)
 
@@ -181,5 +178,4 @@ Cognitive Science Society annual meeting (CogSci) 2022_. [[Preprint DOI](https:/
 - Uegaki, Wataru. Ms. A scale-based semantics for Japanese resultatives. 
 - Uegaki, Wataru. Ms. [r]-epenthesis in Fukuoka Japanese verbal inflection. Generals Paper, MIT.
 
-<!-- [.](https://ling.auf.net/lingbuzz/004979/current.pdf?_s=yikkH4TlfXn3sH39) [.](https://ling.auf.net/lingbuzz/005101/current.pdf?_s=2oE3y-rIrxYtAfi2) [.](https://ling.auf.net/lingbuzz/004994/current.pdf?_s=GYWoYnU3vB3dD3Hf) [.](https://semanticsarchive.net/Archive/WJmOGE5M/paper.pdf) [.](https://semanticsarchive.net/Archive/jc5NmIxN/Question%20Embedding) -->
- -->
+[.](https://ling.auf.net/lingbuzz/004979/current.pdf?_s=yikkH4TlfXn3sH39) [.](https://ling.auf.net/lingbuzz/005101/current.pdf?_s=2oE3y-rIrxYtAfi2) [.](https://ling.auf.net/lingbuzz/004994/current.pdf?_s=GYWoYnU3vB3dD3Hf) [.](https://semanticsarchive.net/Archive/WJmOGE5M/paper.pdf) [.](https://semanticsarchive.net/Archive/jc5NmIxN/Question%20Embedding) -->
