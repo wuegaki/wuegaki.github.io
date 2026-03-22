@@ -5,7 +5,7 @@ permalink: /datasets
 ---
 
 We have currently published the following linguistic datasets. All datasets except for MECORE-EN annotate  
-semantic properties of lexical items in a specific category based on original elicited judgments. MECORE-EN
+semantic properties of lexical items in a specific empirical domain based on  original elicitation data. MECORE-EN
 records naturally occurring examples of clausal embedding in English with annotations of their syntactic 
 specifications. Please refer to the associated publications for their details. 
 
