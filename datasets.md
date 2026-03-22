@@ -6,7 +6,7 @@ permalink: /datasets
 
 We have currently published the following linguistic datasets. 
 
-|                                       Name                                       |            Domain           | Sample Languages |     Data source     |                                                Publication                                                |
+|                                       **Name**                                       |            **Empirical Domain**           | **Sample Languages** |     **Data source**     |                                                **Publication**                                                |
 |==================================================================================|=============================|==================|=====================|===========================================================================================================|
 | [MultiCoS](https://github.com/EdinburghMeaningSciences/multicos)                 | connectives                 | 24 languages     | Elicitation         | LREC 2026                                                                                                 |
 | [MECORE English](https://wuegaki.ppls.ed.ac.uk/mecore/english-dataset/)          | clause-embedding predicates | English          | Web-crawled corpora | [SCiL 2025](https://doi.org/10.7275/scil.3151)                                                            |
