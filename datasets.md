@@ -1,0 +1,14 @@
+---
+layout: page
+title: Datasets
+permalink: /datasets
+---
+
+We have currently published the following linguistic datasets. 
+
+|        Name       |            Domain           | Sample Languages |     Data source     |        Publication        |
+|-------------------|-----------------------------|------------------|---------------------|---------------------------|
+| [MultiCoS](https://github.com/EdinburghMeaningSciences/multicos)          | connectives                 | 24 languages     | Elicitation         | LREC 2026                 |
+| [MECORE English](https://wuegaki.ppls.ed.ac.uk/mecore/english-dataset/)    | clause-embedding predicates | English          | Web-crawled corpora | [SCiL 2025](https://doi.org/10.7275/scil.3151)                 |
+| [Cross-ling modals](https://github.com/EdinburghMeaningSciences/modals_database) | modal auxiliaries           | 24 languages     | Elicitation         | [Linguistic Variation 2024](https://www.jbe-platform.com/content/journals/10.1075/lv.23057.ueg) |
+| [MECORE dataset](https://wuegaki.ppls.ed.ac.uk/mecore/mecore-databases/)    | clause-embedding predicates | 14 languages     | Elicitation         | [SigTyp 2023](https://sigtyp.github.io/workshops/2023/sigtyp/papers/9_a_crosslinguistic_database_for.pdf)               |
