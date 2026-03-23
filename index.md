@@ -51,13 +51,11 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **Nov 2025**: Wataru's colloquium talk at UConn Linguistics.
-- **Nov 2025**: Wataru has been elected as a fellow of [the Young Academy of Europe](https://yacadeuro.org/).
-- **Nov 2025**: Özyıldız & Qing et al. ["Operationalizing focus-sensitivity in a cross-linguistic context"](https://lingbuzz.net/lingbuzz/007004) is accepted by _Natural Language Semantics_. 
-- **Oct 2025**: Two papers ([Mucha et al.](https://doi.org/10.18148/sub/2024.v29.1263) and [Qing & Uegaki](https://doi.org/10.18148/sub/2024.v29.1279)) published in _Proceedings of Sinn und Bedeutung 29_. 
-- **Sept 2025**: Poster presentation "	
-Flavors of German necessity modals: experimental evidence" at [Sinn und Bedeutung 30](https://vicom.info/sub30/) (Mucha, Uegaki & Sorace)
-- **August 2025**: Come to Wataru's Fringe comedy show! Tickets available [here]( https://www.edfringe.com/tickets/whats-on/the-provocateurs-a-600-year-old-fart-joke-talking-to-machines)
+- **April 2026**: Together with [Alex McLean](https://slab.org/), we will organise a workshop 'Natural Language as Heritage Code' at Sheffield Site Gallery and Sheffield Pattern Club. 
+- **March 2026**: Wataru's invited talk at the [UNPAG Kick-off workshop](https://www.unpag.eu/kickoff-workshop/). 
+- **March 2026**: In collaboration with [Tinderbox Collective](https://tinderboxcollective.org/) and [Alex McLean](https://slab.org/), we have organised a youth workshop `Words to Waves: music, programming and language' at North Edinburgh Arts Centre.
+- **Feb 2026**: We have released [MultiCoS: A Multilingual Dataset of Connective Semantics with Context–Sentence Compatibility](https://github.com/EdinburghMeaningSciences/multicos). The associated paper to be presented at [LREC2026](https://lrec2026.info/) in May. 
+- **Jan-Feb 2026**: Wataru's visit at Waseda University Institute for Higher Studies. 
 
 <!-- - **July 2025**: Poster presentation "Automatic Extraction of Clausal Embedding Based on Large-Scale English
 Text Data" @ [SCiL 2025](https://wellesley-easel-lab.github.io/SCiL2025/index.html) ([Carslaw](https://people.inf.ed.ac.uk/Iona_Carslaw.html), [Milton](https://people.inf.ed.ac.uk/Sivan_Milton.html), [Navarre](https://www.bramleylab.ppls.ed.ac.uk/member/nicolas/), Qing & Uegaki)
