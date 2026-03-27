@@ -4,7 +4,7 @@ title: Datasets
 permalink: /datasets
 ---
 
-We have so far released the following linguistic datasets. All datasets except for MECORE-EN annotate  
+We have so far released the following linguistic datasets. All datasets except for MECORE-EN annotate fine-grained
 semantic properties of lexical items in a specific empirical domain based on  original cross-linguistic elicitation data. MECORE-EN
 records naturally occurring examples of clausal embedding in English with annotations of their syntactic 
 specifications. Please refer to the associated publications for their details. 
