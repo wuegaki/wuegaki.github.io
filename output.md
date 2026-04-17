@@ -20,7 +20,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 - **Uegaki, Wataru**, Anne Mucha, & Ciyang Qing. 2026. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. 
 _Proceedings of Cognitive Science (CogSci) Society Annual Meeting 2026_. 
-- Cremers, Alexandre & **Wataru Uegaki** 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings
+- Cremers, Alexandre & **Wataru Uegaki**. 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings
 of Cognitive Science (CogSci) Society Annual Meeting 2026_.
 - {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. to appear. Operationalizing focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[DOI](https://doi.org/10.1007/s11050-025-09243-w)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
 - Mucha, Anne, Ciyang Qing, & **Wataru Uegaki**. to appear. MultiCoS: A Multilingual Dataset of Connective Semantics with
