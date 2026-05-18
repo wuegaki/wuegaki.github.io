@@ -6,10 +6,10 @@ permalink: /output
 
 ### Works in reviewing cycles 
 
-- Uegaki, Wataru. under review. Modality and attitude verbs. 
+- Uegaki, Wataru. to appear. Modality and attitude verbs. 
 A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
 - Özyıldız, Deniz & Wataru Uegaki. under review. Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese. [[Preprint](https://lingbuzz.net/lingbuzz/008187)]
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under revision. 
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under review. 
 When can non-veridical preferential attitude predicates take questions? [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - Uegaki, Wataru, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
@@ -22,19 +22,22 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 _Proceedings of Cognitive Science Society Annual Meeting (CogSci) 2026_. 
 - Cremers, Alexandre & **Wataru Uegaki**. 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings
 of Cognitive Science Society Annual Meeting (CogSci) 2026_.
-- {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. to appear. Operationalizing focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ [[DOI](https://doi.org/10.1007/s11050-025-09243-w)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
-- Mucha, Anne, Ciyang Qing, & **Wataru Uegaki**. to appear. MultiCoS: A Multilingual Dataset of Connective Semantics with
-Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluation Conference (LREC)_. 
-- Qing, Ciyan, Deniz Özyıldız, **Wataru Uegaki**, & Maribel Romero. to appear. Wondering hopefully/fearfully: how do desires and inquisitive
-attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. 
+- Mucha, Anne, Ciyang Qing, & **Wataru Uegaki**. 2026. MultiCoS: A Multilingual Dataset of Connective Semantics with
+Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluation Conference (LREC)_. [[DOI](https://doi.org/10.63317/28ccty7yu9hn)]
+- {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. 2026. Operationalizing focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ 34 [[DOI](https://doi.org/10.1007/s11050-025-09243-w)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
+
+
 
 #### 2025
 
+- Qing, Ciyan, Deniz Özyıldız, **Wataru Uegaki**, & Maribel Romero. 2025. Wondering hopefully/fearfully: how do desires and inquisitive
+attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. 
 - Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. 2025. Automatic extraction of clausal embedding based on large-scale English
 text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.7275/scil.3151)]
 - Qing, Ciyang & **Wataru Uegaki**. 2025. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1279)]
 - Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. 2025. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1263)]
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. 2025. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. [[PDF](https://www.lingref.com/cpp/wccfl/41/paper3783.pdf)]
+
 
 #### 2024
 

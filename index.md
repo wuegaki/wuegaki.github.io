@@ -51,11 +51,14 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **April 2026**: Together with [Alex McLean](https://slab.org/), we will organise a workshop 'Natural Language as Heritage Code' at Sheffield Site Gallery and Sheffield Pattern Club. 
+- **July 2026**: We will give two presentations at CogSci 2026 @ Rio. 
+	- Cremers & Uegaki. Towards an empirically-grounded typology of unacceptability judgments. (talk)
+	- Uegaki, Qing, & Mucha. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. (poster)
+- **May 2026**: We have presented [MultiCoS: A Multilingual Dataset of Connective Semantics with Context–Sentence Compatibility](https://doi.org/10.63317/28ccty7yu9hn) at LREC2026 in Palma de Mallorca. The associated dataset can be accessed [here](https://github.com/EdinburghMeaningSciences/multicos).
+- **April 2026**: Together with [Alex McLean](https://slab.org/), we have organised a workshop 'Natural Language as Heritage Code' at Sheffield Site Gallery and Sheffield Pattern Club. 
 - **March 2026**: Wataru's invited talk at the [UNPAG Kick-off workshop](https://www.unpag.eu/kickoff-workshop/). 
 - **March 2026**: In collaboration with [Tinderbox Collective](https://tinderboxcollective.org/) and [Alex McLean](https://slab.org/), we have organised a youth workshop `Words to Waves: music, programming and language' at North Edinburgh Arts Centre.
-- **Feb 2026**: We have released [MultiCoS: A Multilingual Dataset of Connective Semantics with Context–Sentence Compatibility](https://github.com/EdinburghMeaningSciences/multicos). The associated paper to be presented at [LREC2026](https://lrec2026.info/) in May. 
-- **Jan-Feb 2026**: Wataru's visit at Waseda University Institute for Higher Studies. 
+
 
 <!-- - **July 2025**: Poster presentation "Automatic Extraction of Clausal Embedding Based on Large-Scale English
 Text Data" @ [SCiL 2025](https://wellesley-easel-lab.github.io/SCiL2025/index.html) ([Carslaw](https://people.inf.ed.ac.uk/Iona_Carslaw.html), [Milton](https://people.inf.ed.ac.uk/Sivan_Milton.html), [Navarre](https://www.bramleylab.ppls.ed.ac.uk/member/nicolas/), Qing & Uegaki)
