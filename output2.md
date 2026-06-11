@@ -17,10 +17,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### 2026
 
-
 - **Uegaki, Wataru**. to appear. Modality and attitude verbs. A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
-- Qing, Ciyang, Deniz Özyıldız, Maribel Romero & **Wataru Uegaki**. to appear. Wondering hopefully/fearfully: how do desires and inquisitive
-attitudes interact? _Proceedings of Semantics and Linguistic Theory_. 
 - **Uegaki, Wataru**, Anne Mucha, & Ciyang Qing. 2026. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. 
 _Proceedings of Cognitive Science Society Annual Meeting (CogSci) 2026_. 
 - Cremers, Alexandre & **Wataru Uegaki**. 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings
