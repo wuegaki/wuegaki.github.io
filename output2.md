@@ -17,6 +17,8 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### 2026
 
+- **Uegaki, Wataru**. to appear. Exhaustivity in mention-some readings: Fox (2013) and trivalent presupposition projection
+from embedded questions. 
 - **Uegaki, Wataru**. to appear. Modality and attitude verbs. A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
 - **Uegaki, Wataru**, Anne Mucha, & Ciyang Qing. 2026. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. 
 _Proceedings of Cognitive Science Society Annual Meeting (CogSci) 2026_. 
