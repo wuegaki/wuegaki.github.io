@@ -32,7 +32,7 @@ Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluat
 
 #### 2025
 
-- Qing, Ciyan, Deniz Özyıldız, Maribel Romero, & **Wataru Uegaki**. 2025. Wondering hopefully/fearfully: how do desires and inquisitive
+- Qing, Ciyang, Deniz Özyıldız, Maribel Romero, & **Wataru Uegaki**. 2025. Wondering hopefully/fearfully: how do desires and inquisitive
 attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. 
 - Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. 2025. Automatic extraction of clausal embedding based on large-scale English
 text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.7275/scil.3151)]
