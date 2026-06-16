@@ -39,6 +39,8 @@ text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](h
 - Qing, Ciyang & **Wataru Uegaki**. 2025. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1279)]
 - Mucha, Anne, **Wataru Uegaki**, Mary Amaechi & Tim Jantarungsee. 2025. Disjunction with additives. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1263)]
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. 2025. How context and focus modulate form-meaning mismatches in speech reports. _Proceedings of WCCFL 41_. [[PDF](https://www.lingref.com/cpp/wccfl/41/paper3783.pdf)]
+- Uegaki, Wataru. 2025. A curious case of neg-raising modality in Japanese. _Building Meanings, Building Connections
+A Festschrift in Honor of Makoto Kanazawa and Christopher Tancredi_. [[PDF](https://semanticstokyo.wordpress.com/wp-content/uploads/2025/01/wataruuegaki-1.pdf)]
 
 
 #### 2024
