@@ -33,7 +33,7 @@ Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluat
 #### 2025
 
 - Qing, Ciyang, Deniz Özyıldız, Maribel Romero, & **Wataru Uegaki**. 2025. Wondering hopefully/fearfully: how do desires and inquisitive
-attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. 
+attitudes interact? _Proceedings of Semantics and Linguistic Theory (SALT) 35_. [[DOI](https://doi.org/10.3765/12z04485)]
 - Carslaw, Iona, Sivan Milton, Nicolas Navarre, Ciyang Qing & **Wataru Uegaki**. 2025. Automatic extraction of clausal embedding based on large-scale English
 text data. _Proceedings of The Society for Computation in Linguistics_. [[DOI](https://doi.org/10.7275/scil.3151)]
 - Qing, Ciyang & **Wataru Uegaki**. 2025. Semantic triviality leads to ungrammaticality through iterated learning. _Proceedings of Sinn und Bedeutung 29_. [[DOI](https://doi.org/10.18148/sub/2024.v29.1279)]
