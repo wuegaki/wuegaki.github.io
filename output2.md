@@ -8,8 +8,6 @@ permalink: /output
 
 
 - Özyıldız, Deniz & Wataru Uegaki. under review. Clauses can be modifiers, or arguments: Evidence from alternations in factivity and answer-orientedness in Turkish and Japanese. [[Preprint](https://lingbuzz.net/lingbuzz/008187)]
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. under review. 
-When can non-veridical preferential attitude predicates take questions? [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - Uegaki, Wataru, Anne Mucha, Nathaniel Imel and Shane Steinert-Threlkeld. under review. 
 Deontic priority in the lexicalization of impossibility modals. [[Preprint](https://psyarxiv.com/h63y9)]
 
@@ -17,6 +15,8 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### 2026
 
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. accepted with minor revisions. 
+When can non-veridical preferential attitude predicates take questions? _Natural Language and Linguistic Theory_ [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - **Uegaki, Wataru**. to appear. Exhaustivity in mention-some readings: Fox (2013) and trivalent presupposition projection
 from embedded questions. 
 - **Uegaki, Wataru**. to appear. Modality and attitude verbs. A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
