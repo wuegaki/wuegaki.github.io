@@ -52,9 +52,9 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
-- **July 2026**: We will give two presentations at CogSci 2026 @ Rio. 
-	- Cremers & Uegaki. Towards an empirically-grounded typology of unacceptability judgments. (talk)
-	- Uegaki, Qing, & Mucha. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. (poster)
+- **July 2026**: We gave two presentations at CogSci 2026 @ Rio. 
+	- Cremers & Uegaki. Towards an empirically-grounded typology of unacceptability judgments. (talk; [paper](https://escholarship.org/uc/item/3749c3v7)) 
+	- Uegaki, Qing, & Mucha. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. (poster; [paper](https://escholarship.org/uc/item/1h4173zd))
 - **May 2026**: We have presented [MultiCoS: A Multilingual Dataset of Connective Semantics with Context–Sentence Compatibility](https://doi.org/10.63317/28ccty7yu9hn) at LREC2026 in Palma de Mallorca. The associated dataset can be accessed [here](https://github.com/EdinburghMeaningSciences/multicos).
 - **April 2026**: Together with [Alex McLean](https://slab.org/), we have organised a workshop 'Natural Language as Heritage Code' at Sheffield Site Gallery and Sheffield Pattern Club. 
 - **March 2026**: Wataru's invited talk at the [UNPAG Kick-off workshop](https://www.unpag.eu/kickoff-workshop/). 

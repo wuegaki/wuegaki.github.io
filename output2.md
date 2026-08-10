@@ -15,15 +15,15 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### 2026
 
-- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & Wataru Uegaki. accepted with minor revisions. 
+- Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. accepted with minor revisions. 
 When can non-veridical preferential attitude predicates take questions? _Natural Language and Linguistic Theory_ [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - **Uegaki, Wataru**. to appear. Exhaustivity in mention-some readings: Fox (2013) and trivalent presupposition projection
 from embedded questions. 
 - **Uegaki, Wataru**. to appear. Modality and attitude verbs. A. Arregui, V. Hacquard & M. Ippolito (eds.), _Cambridge Handbook of Modality_. CUP. 
 - **Uegaki, Wataru**, Anne Mucha, & Ciyang Qing. 2026. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. 
-_Proceedings of Cognitive Science Society Annual Meeting (CogSci) 2026_. 
-- Cremers, Alexandre & **Wataru Uegaki**. 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings
-of Cognitive Science Society Annual Meeting (CogSci) 2026_.
+_Proceedings of Cognitive Science Society Annual Meeting (CogSci) 2026_. [[LINK](https://escholarship.org/uc/item/9h13v9db)]
+- Cremers, Alexandre & **Wataru Uegaki**. 2026. Towards an empirically-grounded typology of unacceptability judgments. _Proceedings 
+of Cognitive Science Society Annual Meeting (CogSci) 2026_. [[LINK](https://escholarship.org/uc/item/3749c3v7)]
 - Mucha, Anne, Ciyang Qing, & **Wataru Uegaki**. 2026. MultiCoS: A Multilingual Dataset of Connective Semantics with
 Context–Sentence Compatibility. _Proceedings of Language Resources and Evaluation Conference (LREC)_. [[DOI](https://doi.org/10.63317/28ccty7yu9hn)]
 - {Özyıldız, Deniz, Ciyang Qing}, Floris Roelofsen, **Wataru Uegaki** and Maribel Romero. 2026. Operationalizing focus-sensitivity in a cross-linguistic context. _Natural Language Semantics_ 34 [[DOI](https://doi.org/10.1007/s11050-025-09243-w)] (Özyıldız and Qing are the joint first authors; we prefer the paper to be cited as Özyıldız & Qing et al.)
