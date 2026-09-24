@@ -15,6 +15,7 @@ Deontic priority in the lexicalization of impossibility modals. [[Preprint](http
 
 #### 2026
 
+- Mucha, Anne, Antonella Sorace, and **Wataru Uegaki**. accepted with minor revisions. Flavours of necessity: an experimental investigation of modality in L1 and L2 German. _Glossa_.   
 - Qing, Ciyang, Deniz Özyıldız, Floris Roelofsen, Maribel Romero & **Wataru Uegaki**. to appear. 
 When can non-veridical preferential attitude predicates take questions? _Natural Language and Linguistic Theory_ [[Preprint](https://lingbuzz.net/lingbuzz/008113)]
 - **Uegaki, Wataru**. to appear. Exhaustivity in mention-some readings: Fox (2013) and trivalent presupposition projection
