@@ -52,6 +52,8 @@ In addition, I am interested in **cross-linguistic generalisations in the lexica
 
 # News (recent and upcoming talks, papers etc.)
 
+- **Sept 2026**: Qing & Özyıldız et al. 
+[When can non-veridical preferential attitude predicates take questions?](https://lingbuzz.net/lingbuzz/008113) has been accepted by _Natural Language and Linguistic Theory_. 
 - **July 2026**: We gave two presentations at CogSci 2026 @ Rio. 
 	- Cremers & Uegaki. Towards an empirically-grounded typology of unacceptability judgments. (talk; [paper](https://escholarship.org/uc/item/3749c3v7)) 
 	- Uegaki, Qing, & Mucha. An efficiency-based effect of frequency on lexicalization: a dyadic experiment. (poster; [paper](https://escholarship.org/uc/item/1h4173zd))
